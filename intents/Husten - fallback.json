@@ -1,0 +1,36 @@
+{
+  "id": "84aaaefc-5b2b-4362-a9b1-3216c02f2772",
+  "parentId": "6ef16be4-7233-4997-afc1-330a2d06acee",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "Husten - fallback",
+  "auto": false,
+  "contexts": [
+    "SymptomCheckFieberGemessen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Tut mir Leid, das habe ich nicht ganz verstanden. Haben Sie Husten?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

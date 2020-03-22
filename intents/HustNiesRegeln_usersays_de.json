@@ -1,0 +1,167 @@
+[
+  {
+    "id": "4fa6f0a6-8e06-411c-92c4-899d51a38319",
+    "data": [
+      {
+        "text": "Wie sind die Hustregeln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1f9dfab-b56d-4fd9-ac4e-49e497743dd6",
+    "data": [
+      {
+        "text": "Wie sind die Niesregeln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44a0505f-321c-4bc7-b8f9-bd080695c018",
+    "data": [
+      {
+        "text": "Wie sind die ",
+        "userDefined": false
+      },
+      {
+        "text": "Nies",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "- und Hustregeln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99f6f4ac-2761-4fa1-aff9-ee9cfe105090",
+    "data": [
+      {
+        "text": "Wie ",
+        "userDefined": false
+      },
+      {
+        "text": "Huste",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " richtig?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18fbbe7b-ac37-42f7-b924-055f0bb32dbd",
+    "data": [
+      {
+        "text": "Was muss ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " beim ",
+        "userDefined": false
+      },
+      {
+        "text": "Husten",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4659e99-c9ab-4fe8-a9c9-3819fbeecef3",
+    "data": [
+      {
+        "text": "Was muss ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " beim ",
+        "userDefined": false
+      },
+      {
+        "text": "Niesen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fcfa936-74d1-407f-bcfa-1fbc82886da7",
+    "data": [
+      {
+        "text": "Wie ",
+        "userDefined": false
+      },
+      {
+        "text": "Niese",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " richtig?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

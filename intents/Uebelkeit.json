@@ -1,0 +1,61 @@
+{
+  "id": "81522d18-4019-4e6d-b028-4b5e94a4ab66",
+  "parentId": "696a0d22-6f20-4b58-ac89-0a659475d963",
+  "rootParentId": "4f3b7070-5664-4592-9523-33b1e152bef4",
+  "name": "Uebelkeit",
+  "auto": true,
+  "contexts": [
+    "Uebelkeit-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schuettelfrost.Schuettelfrost-yes.Uebelkeit-yes",
+      "affectedContexts": [
+        {
+          "name": "Uebelkeit-followup-2",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a1a36e87-0ddf-4c4d-96ea-daf978657e1b",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "UebelkeitSkala",
+          "value": "$UebelkeitSkala",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Bitte geben Sie mir eine Einschätzung Ihrer Übelkeit auf einer Skala von 1 (leichtes Unwohlsein) bis 10 (starke Übelkeit und Erbrechen)."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Wir haben die Symptomabfrage abgeschlossen. Zur Einordnung der Ergebnisse, stellen wir Ihnen noch ein paar kleine Fragen. Wie alt sind Sie?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

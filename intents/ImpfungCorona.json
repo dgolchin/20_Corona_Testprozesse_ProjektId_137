@@ -1,0 +1,44 @@
+{
+  "id": "8e5016e8-9753-4b12-8d38-5d9bc60ff99f",
+  "name": "ImpfungCorona",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7b076321-acb7-4717-99cc-604e17ff723a",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "coronasynonyme",
+          "value": "$coronasynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Momentan steht kein Impfstoff zur Verfügung, der vor einer Infektion mit dem neuartigen Coronavirus  schützt. Weltweit wird intensiv an solchen Impfstoffen gearbeitet. Wann ein Impfstoff zum Schutz vor COVID-19 verfügbar sein wird, ist derzeit noch nicht zu sagen. Stellen Sie mir gerne weitere Fragen. Fragen Sie mich gerne mehr."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

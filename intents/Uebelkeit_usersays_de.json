@@ -1,0 +1,122 @@
+[
+  {
+    "id": "a1d19523-e285-4a54-9549-9c56cbb49d35",
+    "data": [
+      {
+        "text": "mach das",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "def8a4d6-b166-4f40-8382-71217ab9b263",
+    "data": [
+      {
+        "text": "ja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "bc5a583d-39c6-4ca4-8e7d-5784db4dae85",
+    "data": [
+      {
+        "text": "natürlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c384b902-55dc-4190-8d2e-5ad69463df40",
+    "data": [
+      {
+        "text": "bestätigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0889c401-66cd-4e4e-b4a3-de9c58d520ec",
+    "data": [
+      {
+        "text": "klingt gut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b6a0e9e-5d6f-4038-94ba-86b614b04638",
+    "data": [
+      {
+        "text": "ist mir egal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "04b14169-ad72-4026-a14d-2f40af0b7795",
+    "data": [
+      {
+        "text": "genau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "005f9db7-e46f-497f-8079-e56700ec74b2",
+    "data": [
+      {
+        "text": "klar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8e026541-520c-4f6f-b325-f8093a2f3f2a",
+    "data": [
+      {
+        "text": "das ist richtig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1dea350e-1276-48bf-bd2a-e54995d8664d",
+    "data": [
+      {
+        "text": "einverstanden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "c2cf871d-654c-4ae0-8422-73c6183a2245",
+  "parentId": "52663cc9-fed8-454e-869c-b484f19a4b08",
+  "rootParentId": "52663cc9-fed8-454e-869c-b484f19a4b08",
+  "name": "Symptomcheck",
+  "auto": true,
+  "contexts": [
+    "SollIchZumArztGehen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SollIchZumArztGehen.SollIchZumArztGehen-yes",
+      "affectedContexts": [
+        {
+          "name": "EinschaetzungSymptome-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay, lassen Sie uns einen Symptom Check machen. Wir gehen jetzt die Symptome zusammen durch. Ich stelle Ihnen 13 kurze Fragen zu den bisher bekannten Symptomen. Bitte denken Sie stets daran die kommenden Fragen möglichst gewissenhaft und ehrlich zu beantworten.  Haben Sie schon Fieber gemessen?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

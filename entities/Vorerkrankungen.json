@@ -1,0 +1,9 @@
+{
+  "id": "342132b4-66c3-4237-96fb-7b315a25c2f7",
+  "name": "Vorerkrankungen",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

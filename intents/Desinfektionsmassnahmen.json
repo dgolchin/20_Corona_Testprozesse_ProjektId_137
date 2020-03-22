@@ -1,0 +1,44 @@
+{
+  "id": "c401e63c-5394-4334-a08e-41ba78fe3371",
+  "name": "Desinfektionsmassnahmen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "49297f4c-3e73-4edb-8a4f-1c4d49d40592",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "CoronaSynonyme",
+          "value": "$CoronaSynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Zur chemischen Desinfektion sind Mittel mit nachgewiesener Wirksamkeit, mit dem Wirkungsbereich \"begrenzt viruzid\" (wirksam gegen behüllte Viren), \"begrenzt viruzid PLUS\" oder \"viruzid\" anzuwenden. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

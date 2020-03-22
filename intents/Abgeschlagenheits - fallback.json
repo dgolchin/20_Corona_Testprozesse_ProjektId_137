@@ -1,0 +1,36 @@
+{
+  "id": "b786cad0-31c6-4d8a-9ab3-7bb2c9295bcd",
+  "parentId": "058790d6-a984-474a-9b4d-d49b8dc22513",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "Abgeschlagenheits - fallback",
+  "auto": false,
+  "contexts": [
+    "Durchfall-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes.HustenVorhanden-yes.NaseZu-yes.Durchfall-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Tut mir leid, das habe ich nicht verstanden. Fühlen Sie sich Abgeschlagen, Müde oder Träge?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

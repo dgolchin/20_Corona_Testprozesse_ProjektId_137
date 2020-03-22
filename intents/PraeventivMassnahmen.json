@@ -1,0 +1,44 @@
+{
+  "id": "835cbe9a-81a5-4b17-b0c3-e30e5be9ac83",
+  "name": "PraeventivMassnahmen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c82b593a-6053-4736-838f-8237cee429c3",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "coronasynonyme",
+          "value": "$coronasynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Du kannst die Verbreitung eindämmen, indem du auf Händeschütteln verzichtest, nach Möglichkeit von zu Hause arbeitest und Kontakte mit Menschen außerhalb deines Haushalts minimierst. Weiterhin solltest du den Vorgaben der Behörden folgen und zuhause bleiben, wenn du Atemwegsbeschwerden feststellst. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

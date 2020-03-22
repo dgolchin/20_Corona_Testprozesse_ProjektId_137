@@ -1,0 +1,110 @@
+[
+  {
+    "id": "fdb5eab4-05c0-4842-90ff-cedd4a720981",
+    "data": [
+      {
+        "text": "kein Interesse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0f9dd253-eca7-4127-be90-f0c35926514e",
+    "data": [
+      {
+        "text": "das möchte ich nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "149aa015-d0b4-4c8a-8b7c-8c3e2b0a196a",
+    "data": [
+      {
+        "text": "mach das nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd7729ef-74f5-4903-bea0-0fb26ce95a4a",
+    "data": [
+      {
+        "text": "nein danke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f83cdfab-a81e-4e9c-952d-15a80a3745aa",
+    "data": [
+      {
+        "text": "nein",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "2e287748-28fa-4ab4-a00e-8b9be324c30a",
+    "data": [
+      {
+        "text": "ich denke nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f4d52fa-4745-47ed-9d67-4e1f1d7c5438",
+    "data": [
+      {
+        "text": "eigentlich nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22b59873-483a-4f95-9eb2-0efe77cc8650",
+    "data": [
+      {
+        "text": "ich bin nicht einverstanden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "64d7783e-3512-4bc4-a98f-e92e526060ea",
+    "data": [
+      {
+        "text": "auf keinen Fall",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

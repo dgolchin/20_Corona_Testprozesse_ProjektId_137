@@ -1,0 +1,42 @@
+{
+  "id": "87e4e979-7aaa-4bb5-9183-d766a845d721",
+  "parentId": "f47dc79f-b227-458f-9246-a387c4d4ee09",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "KeineAtemprobleme",
+  "auto": true,
+  "contexts": [
+    "Sputum-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes.HustenVorhanden-yes.NaseZu-yes.Durchfall-yes.Abgeschlagenheit-yes.Sputum-no",
+      "affectedContexts": [
+        {
+          "name": "Atemprobleme-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay. Sie haben es fast geschafft. Es folgen noch 6 weitere Fragen zu den bisher bekannten Symptomen. Haben Sie Kieferschmerzen?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

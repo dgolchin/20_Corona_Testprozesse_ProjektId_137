@@ -1,0 +1,73 @@
+{
+  "id": "f47dc79f-b227-458f-9246-a387c4d4ee09",
+  "parentId": "36290450-58e8-4cd5-8550-8f0d5ed60592",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "NaseZu",
+  "auto": true,
+  "contexts": [
+    "Abgeschlagenheit-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes.HustenVorhanden-yes.NaseZu-yes.Durchfall-yes.Abgeschlagenheit-yes",
+      "affectedContexts": [
+        {
+          "name": "Sputum-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ed4684d6-b022-400d-9427-a1ee9d6cd3eb",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "name": "time-period",
+          "value": "$time-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9c7df1ca-dbd0-4b61-b6c6-8a6728e29d30",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "NaseSkala",
+          "value": "$NaseSkala",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Auf einer Skala von 1 (leicht verstopfte Nase) bis 10 (stark verstopfte Nase), wie schätzen Sie ihre Beschwerden ein?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay, leiden Sie an Atemproblemen?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

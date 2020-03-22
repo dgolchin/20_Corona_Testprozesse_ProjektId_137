@@ -1,0 +1,149 @@
+[
+  {
+    "id": "3a7728d5-c262-4223-8867-9d7337711a72",
+    "data": [
+      {
+        "text": "Nein mir geht ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gut",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f2cdbbc-82a9-43e7-9d91-e24307837ac0",
+    "data": [
+      {
+        "text": "nöö",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0855609d-95c6-402d-8ad4-a6c166793d12",
+    "data": [
+      {
+        "text": "nein danke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "edbb7a6c-6833-416a-a942-31dafa7f35d6",
+    "data": [
+      {
+        "text": "kein Interesse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e1a769e7-913b-410f-bd88-d08e32a5851a",
+    "data": [
+      {
+        "text": "das möchte ich nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "590af622-8a02-4988-b300-e504840ae0a6",
+    "data": [
+      {
+        "text": "mach das nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4f836a98-6a7a-40b3-97f7-ea02b7fda1a8",
+    "data": [
+      {
+        "text": "nein",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "fcc805ae-e4f8-4073-9172-0689d5dd6410",
+    "data": [
+      {
+        "text": "ich denke nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67bf4d8e-cb3e-4268-92ca-8cd39665940f",
+    "data": [
+      {
+        "text": "eigentlich nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4442d02-6b21-43e7-a11c-eaac93cd9fdd",
+    "data": [
+      {
+        "text": "ich bin nicht einverstanden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "51c146a9-4615-4c23-96b0-13ac5a84b1ac",
+    "data": [
+      {
+        "text": "auf keinen Fall",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

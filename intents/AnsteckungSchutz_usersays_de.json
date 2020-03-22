@@ -1,0 +1,192 @@
+[
+  {
+    "id": "e3d0116d-ce0a-498f-9d62-9b1a48f4d22f",
+    "data": [
+      {
+        "text": "Wie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mich vor ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme1",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " Ansteckung schützen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec1b2bcf-d407-4da1-85f1-b246c6e7a6ae",
+    "data": [
+      {
+        "text": "Wie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kann man",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sich vor ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme1",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " Ansteckung schützen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "429f4f1c-b4ed-4673-9aad-c875145a54c4",
+    "data": [
+      {
+        "text": "Ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " möchte mich nicht anstecken.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db4a20e0-d3e0-49f3-97f9-6571ebb8db35",
+    "data": [
+      {
+        "text": "Was ",
+        "userDefined": false
+      },
+      {
+        "text": "kann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tun, um",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nicht angesteckt zu werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3376869-a58b-4399-879f-65ef40408307",
+    "data": [
+      {
+        "text": "Wie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kann man",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sich vor ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Ansteckung schützen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

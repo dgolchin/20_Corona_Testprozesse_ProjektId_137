@@ -1,0 +1,94 @@
+{
+  "id": "0ffc87f0-b864-4027-a438-742e40669d34",
+  "parentId": "6ef16be4-7233-4997-afc1-330a2d06acee",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "HustenVorhanden",
+  "auto": true,
+  "contexts": [
+    "SymptomCheckFieberGemessen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes",
+      "affectedContexts": [
+        {
+          "name": "HustenVorhanden-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f6448f1b-8c5d-4bc5-b326-fea7581c6a5d",
+          "required": false,
+          "dataType": "@Person",
+          "name": "Person",
+          "value": "$Person",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "54273846-283b-4a94-8860-fa2870b4ac22",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "SkalaHusten",
+          "value": "$HustenSkala",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Wie stark würden Sie ihren Husten auf einer Skala von 1-10 einschätzen, wenn 1 kaum Husten und 10 sehr starker Husten bedeutet?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "0dad5283-3b16-4bff-af55-d599d9625aed",
+          "required": true,
+          "dataType": "@Husten",
+          "name": "HustenArt",
+          "value": "$HustenArt",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Haben Sie eher trockenen Husten oder produktiven Husten (feuchter Husten)?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": [
+            "Okay. Haben Sie dabei auch Sputum? Als Sputum oder Auswurf bezeichnet man das aus den Atemwegen abgehustete und schließlich ausgespuckte, schleimige Sekret",
+            "Okay, haben Sie dabei auch Sputum? Als Sputum oder Auswurf bezeichnet man das aus den Atemwegen abgehustete und schließlich ausgespuckte, schleimige Sekret"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

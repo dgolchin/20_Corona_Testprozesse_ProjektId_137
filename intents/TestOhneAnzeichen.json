@@ -1,0 +1,31 @@
+{
+  "id": "e0126fdf-e2f2-40e9-a82b-65a659f734f2",
+  "name": "TestOhneAnzeichen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Eine Labordiagnose sollte nur bei Krankheitszeichen durchgeführt werden zur Klärung der Ursache. Wenn man gesund ist, sich aber noch in der Inkubationszeit befindet (kann bis zu 14 Tage betragen), sagt ein negativer Test auf COVID-19 nichts darüber aus, ob man nicht doch noch krank werden kann. Zudem würden damit die Laborkapazitäten unnötig belastet. Fragen Sie mich gerne mehr dazu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

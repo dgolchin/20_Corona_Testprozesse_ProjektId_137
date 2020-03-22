@@ -1,0 +1,42 @@
+{
+  "id": "8fd588e2-a466-46a3-9f72-f239d622c233",
+  "parentId": "080be8d7-88ee-40c8-807b-0450fd800844",
+  "rootParentId": "4f3b7070-5664-4592-9523-33b1e152bef4",
+  "name": "NichtRaucher",
+  "auto": true,
+  "contexts": [
+    "Altersabfrage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schuettelfrost.Schuettelfrost-yes.Uebelkeit-yes.Uebelkeit-custom.Altersabfrage-no",
+      "affectedContexts": [
+        {
+          "name": "Raucher-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Haben Sie eine der folgenden Vorerkrankungen: Vorerkrankung im Herz-Kreislauf-System (z.B. koronare Herzerkrankung und Bluthochdruck), Vorerkrankung der Lunge (z.B. Asthma, chronische Bronchitits), eine chronische Lebererkrankung, Diabetes, eine Krebserkrankung oder eine Krankheit die ein geschwächtes Immunsystem verursacht? Wenn ja, wie viele Krankheiten von den genannten haben Sie?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

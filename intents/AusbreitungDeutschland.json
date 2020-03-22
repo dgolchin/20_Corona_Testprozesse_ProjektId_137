@@ -1,0 +1,44 @@
+{
+  "id": "76f9ab66-f0a2-4c12-8746-d2410933a67f",
+  "name": "AusbreitungDeutschland",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b5afbac9-8462-4a29-a0a0-734d6f8124b4",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "coronasynonyme",
+          "value": "$coronasynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Es ist offen, wie viele Menschen sich insgesamt in Deutschland mit dem Coronavirus SARS-CoV-2 infizieren werden. Schätzungen gehen von bis zu 70 % der Bevölkerung aus, es ist allerdings unklar, über welchen Zeitraum dies geschehen wird. Die Auswirkungen für Deutschland lassen sich nicht vorhersagen. Auch wenn nach derzeitigen Erkenntnissen nur ein kleiner Teil der Erkrankungen schwer verläuft. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

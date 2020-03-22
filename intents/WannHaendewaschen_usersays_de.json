@@ -1,0 +1,87 @@
+[
+  {
+    "id": "039d4222-9044-4deb-8247-a25e247fbc03",
+    "data": [
+      {
+        "text": "Wann wasche ich meine Hände?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42212535-64a4-4579-887e-496675dc4409",
+    "data": [
+      {
+        "text": "Wie oft sollte ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " meine Hände waschen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec5b678c-79b9-4572-9c19-f78f3d96cdcc",
+    "data": [
+      {
+        "text": "Wann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " wasche ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " meine Hände am besten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b78ee885-4ced-40ca-8030-8a657784b095",
+    "data": [
+      {
+        "text": "Wann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sollte ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " meine Händewaschen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

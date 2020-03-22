@@ -1,0 +1,44 @@
+{
+  "id": "13b44aec-fa24-4d10-82cb-ea2a557e4698",
+  "name": "LandSicher",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4dd99813-3d36-4774-8e9b-86c2e8051f77",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "CoronaSynonyme",
+          "value": "$CoronaSynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Gesundheitsempfehlungen bei Auslandsreisen werden vom Auswärtigen Amt  gegeben. Aktuelle Informationen zu der Sicherheitssituation in einzelnen betroffenen Ländern sind auf den Länderseiten des Auswärtigen Amt im Internet einzusehen. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

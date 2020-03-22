@@ -1,0 +1,128 @@
+[
+  {
+    "id": "0300c348-e1e2-42fd-bc45-78871d082791",
+    "data": [
+      {
+        "text": "Wie viele ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Fälle",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee6c149f-b274-4e9f-a4ab-e9f66e980dc5",
+    "data": [
+      {
+        "text": "Was sind die aktuellen Fallzahlen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c09093-7dcc-4612-9dd1-7f8b2cd2d56f",
+    "data": [
+      {
+        "text": "Wie viele ",
+        "userDefined": false
+      },
+      {
+        "text": "Leute",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " haben das ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus?",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9fe1a97-77f2-4384-b0bb-1f4f67c7845f",
+    "data": [
+      {
+        "text": "Wie viele ",
+        "userDefined": false
+      },
+      {
+        "text": "Leute",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sind am ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " infiziert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a81d8e9-b6ac-4958-bdd4-527644fc6940",
+    "data": [
+      {
+        "text": "Wie viele Infizierte gibt es in ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2e9b56b-357c-4845-9bdb-2847d52376fa",
+    "data": [
+      {
+        "text": "Wie viele Infizierte gibt es aktuell?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

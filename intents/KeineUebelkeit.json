@@ -1,0 +1,42 @@
+{
+  "id": "42b56777-6a4e-4851-a909-54bbed4410e9",
+  "parentId": "696a0d22-6f20-4b58-ac89-0a659475d963",
+  "rootParentId": "4f3b7070-5664-4592-9523-33b1e152bef4",
+  "name": "KeineUebelkeit",
+  "auto": true,
+  "contexts": [
+    "Uebelkeit-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schuettelfrost.Schuettelfrost-yes.Uebelkeit-no",
+      "affectedContexts": [
+        {
+          "name": "Uebelkeit-followup-2",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Wir haben die Symptomabfrage abgeschlossen. Zur Einordnung der Ergebnisse, stellen wir Ihnen noch ein paar Fragen zu Ihrer Person. Wie alt sind Sie?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

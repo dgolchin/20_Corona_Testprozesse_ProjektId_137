@@ -1,0 +1,85 @@
+{
+  "id": "7e42cc81-e245-422c-9481-f6d88522acec",
+  "parentId": "95056392-b9dc-41d2-801f-51fa253ca79f",
+  "rootParentId": "4f3b7070-5664-4592-9523-33b1e152bef4",
+  "name": "Vorerkrankung",
+  "auto": true,
+  "contexts": [
+    "Raucher-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schuettelfrost.Schuettelfrost-yes.Uebelkeit-yes.Uebelkeit-custom.Altersabfrage-yes.Raucher-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "09b3838f-33cc-4745-b161-6693fecbf5d8",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "AnzahlVorerkrankungen",
+          "value": "$AnzahlVorerkrankungen",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Wie viele von den genannten Vorerkrankungen haben Sie?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "01bbc123-431a-4058-81c8-8ef5ab562b42",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "NameDerKrankheit",
+          "value": "$NameDerKrankheit",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Welche Vorerkrankungen haben Sie?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0a420055-3f0c-4a8e-be6a-717c50e25d0f",
+          "required": false,
+          "dataType": "@Vorerkrankungen",
+          "name": "Vorerkrankungen",
+          "value": "$Vorerkrankungen",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

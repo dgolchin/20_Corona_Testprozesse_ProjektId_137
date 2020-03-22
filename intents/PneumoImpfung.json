@@ -1,0 +1,44 @@
+{
+  "id": "ce52053b-4a63-4c0d-a9aa-fe893f48763f",
+  "name": "PneumoImpfung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d69b5bdb-3e85-456b-9372-5371128cfe7b",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "CoronaSynonyme",
+          "value": "$CoronaSynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Pneumokokken-Impfung schützt nicht vor COVID-19. Allerdings können Pneumokokken-Infektionen zu schweren Lungenentzündungen und Sepsis führen und die Versorgung der Patienten auf einer Intensivstation ggf. mit Beatmung erfordern. Dies gilt es gerade bei einem ohnehin schon über die Maßen belasteten Gesundheitssystem zu vermeiden. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

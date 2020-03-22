@@ -1,0 +1,48 @@
+[
+  {
+    "id": "b14306e0-a9ed-440d-9a5b-ef137f9efae6",
+    "data": [
+      {
+        "text": "Muss ich in Quarantäne?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46bd5f7e-2ba0-4ab5-9d59-13543354b108",
+    "data": [
+      {
+        "text": "Wann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " muss ich in Quarantäne?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "470fb2ba-83cf-47c2-b4bf-1b0fae173753",
+    "data": [
+      {
+        "text": "Wann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " muss man in Quarantäne?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

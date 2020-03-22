@@ -1,0 +1,119 @@
+[
+  {
+    "id": "3d9fe677-9916-45d4-b2cb-15b4a69fcbd8",
+    "data": [
+      {
+        "text": "kein Interesse",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5cb0aa85-41c8-4260-b547-c461d37f852f",
+    "data": [
+      {
+        "text": "das möchte ich nicht",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9dacffe0-5c01-4fe8-9161-f00752316849",
+    "data": [
+      {
+        "text": "mach das nicht",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56a957ae-5ee5-49e9-83ba-441a2da9ceb1",
+    "data": [
+      {
+        "text": "nein danke",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6ed5c228-1588-413b-bcf8-c21ac6fa0985",
+    "data": [
+      {
+        "text": "nein",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "2f2556a6-dad1-438a-861c-cc912a286ff2",
+    "data": [
+      {
+        "text": "ich denke nicht",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11616afa-5f01-4285-af16-34d6b6f432d8",
+    "data": [
+      {
+        "text": "eigentlich nicht",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04b2658a-fd88-445d-9d2a-b72719970a7e",
+    "data": [
+      {
+        "text": "ich bin nicht einverstanden",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d2b42364-1907-4970-894b-e4dbed26ae17",
+    "data": [
+      {
+        "text": "auf keinen Fall",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

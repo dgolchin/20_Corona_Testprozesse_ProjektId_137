@@ -1,0 +1,36 @@
+{
+  "id": "3257d178-c791-47b3-ba85-4b4f90f2c317",
+  "parentId": "36290450-58e8-4cd5-8550-8f0d5ed60592",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "NaseZu - fallback",
+  "auto": false,
+  "contexts": [
+    "Abgeschlagenheit-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes.HustenVorhanden-yes.NaseZu-yes.Durchfall-yes.Abgeschlagenheit-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Entschuldigung, das habe ich nicht verstanden. Ist Ihre Nase verstopft?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

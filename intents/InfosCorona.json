@@ -1,0 +1,44 @@
+{
+  "id": "2d23b665-685b-48ab-8056-968665604642",
+  "name": "InfosCorona",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5ea5baad-76eb-426c-bdf9-242dbc926792",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "coronasynonyme",
+          "value": "$coronasynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Informationen über das neuartige Coronavirus für die Fachöffentlichkeit sind unter www.rki.de/covid-19 abrufbar.\n\nInformationen für Bürger, darunter Hygienetipps und Antworten auf häufig gestellte Fragen (FAQ), stellt die BZgA unter www.infektionsschutz.de zur Verfügung. Fragen Sie mich gerne mehr."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

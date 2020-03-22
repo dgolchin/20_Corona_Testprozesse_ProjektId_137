@@ -1,0 +1,42 @@
+{
+  "id": "db4c6864-f8d4-4f4c-9e1a-0f01532edf12",
+  "parentId": "e135b246-3920-49cb-a776-d796fcb50c42",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "KeineKopfschmerzen",
+  "auto": true,
+  "contexts": [
+    "Kieferschmerzen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes.HustenVorhanden-yes.NaseZu-yes.Durchfall-yes.Abgeschlagenheit-yes.Sputum-yes.Atemprobleme-yes.Kieferschmerzen-no",
+      "affectedContexts": [
+        {
+          "name": "Kopfschmerzen-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay, haben Sie denn Halsschmerzen?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

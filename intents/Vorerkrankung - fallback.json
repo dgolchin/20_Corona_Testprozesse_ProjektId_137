@@ -1,0 +1,36 @@
+{
+  "id": "cf365b46-e0d5-4b6f-a206-5a4920d3f524",
+  "parentId": "95056392-b9dc-41d2-801f-51fa253ca79f",
+  "rootParentId": "4f3b7070-5664-4592-9523-33b1e152bef4",
+  "name": "Vorerkrankung - fallback",
+  "auto": false,
+  "contexts": [
+    "Raucher-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schuettelfrost.Schuettelfrost-yes.Uebelkeit-yes.Uebelkeit-custom.Altersabfrage-yes.Raucher-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

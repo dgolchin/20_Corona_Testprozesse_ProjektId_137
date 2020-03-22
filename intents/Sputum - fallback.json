@@ -1,0 +1,36 @@
+{
+  "id": "e4b2f5ea-3551-4b1c-9e66-722fcbffc489",
+  "parentId": "0ffc87f0-b864-4027-a438-742e40669d34",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "Sputum - fallback",
+  "auto": false,
+  "contexts": [
+    "HustenVorhanden-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes.HustenVorhanden-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Das habe ich nicht ganz verstanden. Bitte teilen Sie mir mit, ob mit Ihrem Husten auch Sputum verbunden ist. Als Sputum oder Auswurf bezeichnet man das aus den Atemwegen abgehustete und schließlich ausgespuckte, schleimige Sekret"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

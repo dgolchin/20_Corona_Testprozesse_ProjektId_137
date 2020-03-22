@@ -1,0 +1,75 @@
+{
+  "id": "4f3b7070-5664-4592-9523-33b1e152bef4",
+  "name": "2Halsschmerzen",
+  "auto": true,
+  "contexts": [
+    "Kopfschmerzen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Schuettelfrost-followup",
+          "parameters": {},
+          "lifespan": 4
+        },
+        {
+          "name": "SchuettelfrostEins-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0144f0d3-1d56-4ded-a8fe-397e477b6fb5",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "HalsSkala",
+          "value": "$HalsSkala",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Wie stark bewerten Sie Ihre Halsschmerzen auf einer Skala von 1 (leichte Halsschmerzen) bis 10 (starke Halsschmerzen)?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "3f70e3d9-930b-4a37-89ee-d9ea2f3aa689",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay, haben Sie Schüttelfrost?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

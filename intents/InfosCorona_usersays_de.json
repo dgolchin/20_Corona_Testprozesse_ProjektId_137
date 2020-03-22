@@ -1,0 +1,155 @@
+[
+  {
+    "id": "35a78c2a-69cd-401b-b133-994080bc3526",
+    "data": [
+      {
+        "text": "Wo finde ich Informationen über ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "581f3777-1a86-4f16-9d1e-2f8d876939c9",
+    "data": [
+      {
+        "text": "Was sollte man über ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " wissen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56cfd1b8-0289-492c-a763-bca8c7284333",
+    "data": [
+      {
+        "text": "Informier mich über ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4766d232-9cbf-4b0d-b304-e6b9f401d27e",
+    "data": [
+      {
+        "text": "Wo gibt es Infos über ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36056b01-d6e7-46ca-b483-62a4d8aa9809",
+    "data": [
+      {
+        "text": "Wo kann ich mich über ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " informieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73668286-8ad8-4235-ae32-4dc652931080",
+    "data": [
+      {
+        "text": "Wo finde ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mehr Infos über ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cbe89cf-e52a-4232-b052-d71b52989c5c",
+    "data": [
+      {
+        "text": "Wo gibt es weitere Informationen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

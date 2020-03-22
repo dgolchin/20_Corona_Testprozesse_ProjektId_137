@@ -1,0 +1,42 @@
+{
+  "id": "9c84bc0b-c87a-44e0-a41a-210c0e6a2498",
+  "parentId": "058790d6-a984-474a-9b4d-d49b8dc22513",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "KeineAbgeschlagenheit",
+  "auto": true,
+  "contexts": [
+    "Durchfall-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes.HustenVorhanden-yes.NaseZu-yes.Durchfall-no",
+      "affectedContexts": [
+        {
+          "name": "Abgeschlagenheit-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay, ist Ihre Nase verstopft?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

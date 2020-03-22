@@ -1,0 +1,31 @@
+{
+  "id": "d924c4b9-9e00-44b5-8b9e-b902a5cd522c",
+  "name": "SchulenEvents",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Veranstaltungen, insbesondere Massenveranstaltungen können dazu beitragen, das Virus schneller zu verbreiten. Daher kann je nach Einzelfall das Absagen, Verschieben oder die Umorganisation von Massenveranstaltungen gerechtfertigt sein, um der vorrangigen Gesundheitssicherheit der Bevölkerung Rechnung zu tragen. Auf Messen, Kongressen oder größeren Veranstaltungen ist Möglichkeit der Rückverfolgbarkeit von Kontaktpersonen extrem schwierig, bei über 1000 Teilnehmenden nahezu ausgeschlossen. Es kann unter ungünstigen Bedingungen zu einer Übertragung auf viele Personen kommen. Auch hinsichtlich kleinerer Veranstaltungen ist eine sorgfältige Risikoabwägung unerlässlich. Dazu zählen auch kleinere, aber regelmäßig stattfindende Veranstaltungen, z.B. in Einrichtungen (Universitäten, Schulen, Kindergärten), die je nach Risikoabwägung ggf. vorübergehend geschlossen werden oder ihre Ferien verlängern können. Fragen Sie mich gerne mehr."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

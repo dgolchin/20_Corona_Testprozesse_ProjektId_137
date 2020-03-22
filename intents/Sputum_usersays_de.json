@@ -1,0 +1,417 @@
+[
+  {
+    "id": "aff5dac5-971f-4505-92e3-80218c5981e2",
+    "data": [
+      {
+        "text": "Ich denke schon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1d9d185-1f8a-45a6-a22a-203392a73d40",
+    "data": [
+      {
+        "text": "Ja das glaube ich schon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8483b18-5c97-468d-a655-acb96508d6ce",
+    "data": [
+      {
+        "text": "Ja eigentlich schon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83a2e3cf-f5db-411e-b48f-226266b6b9df",
+    "data": [
+      {
+        "text": "Immer wieder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd74d1fa-8908-4ad2-af51-219dfd8adaf3",
+    "data": [
+      {
+        "text": "Ab und zu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53ded1bb-93e2-4177-9204-57b78e4f8d32",
+    "data": [
+      {
+        "text": "manchmal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c810ee9-5f53-48a9-b089-2c58a3d55165",
+    "data": [
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " wenig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ed4da0b-c267-4184-8114-f2e6407ca759",
+    "data": [
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisschen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1ceab8c-c143-47d8-845e-3293e173ef78",
+    "data": [
+      {
+        "text": "viel",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e2d68ae-014f-4a30-b5d7-48832d96cbd4",
+    "data": [
+      {
+        "text": "Ja habe ich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40f08b5e-0212-4324-96a1-f5334bec9d14",
+    "data": [
+      {
+        "text": "Si",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b1c5292-afd6-4583-aa2a-04401e66c5b8",
+    "data": [
+      {
+        "text": "Yes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c505bc01-8415-47ca-a328-58e018c6799b",
+    "data": [
+      {
+        "text": "Joa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " habe ich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "627d9512-5e05-4848-83db-17df699f21e8",
+    "data": [
+      {
+        "text": "Ja, ich habe Sputum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3dbdbab6-2b9c-4eac-b0ed-b1451dcb494d",
+    "data": [
+      {
+        "text": "mach das",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a950b428-5966-440f-9707-fb0f9a8398c1",
+    "data": [
+      {
+        "text": "ja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c11bdd99-00c8-490e-a3ee-f00193272f17",
+    "data": [
+      {
+        "text": "natürlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2360f75a-64bb-485f-83e1-45f309fdf7f2",
+    "data": [
+      {
+        "text": "bestätigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbc9a6e4-9cb7-4927-8cb8-6c879775cb3d",
+    "data": [
+      {
+        "text": "klingt ",
+        "userDefined": false
+      },
+      {
+        "text": "gut",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c060950c-bac8-4fff-864a-41b769b639e6",
+    "data": [
+      {
+        "text": "ist mir egal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cac148ad-e7db-4607-a937-330f6de6b85e",
+    "data": [
+      {
+        "text": "morgens",
+        "alias": "time-period",
+        "meta": "@sys.time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0acb6390-6590-478e-a072-f7ffd29bab58",
+    "data": [
+      {
+        "text": "genau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bcdc2f7a-7208-4460-97f7-007b15d9f226",
+    "data": [
+      {
+        "text": "klar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56a54c2a-0f87-4f52-a96f-a01f944d51c6",
+    "data": [
+      {
+        "text": "das ist richtig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1c3cefa-df09-4c8f-8655-97392cb4c023",
+    "data": [
+      {
+        "text": "ja Sputum habe ich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b424444c-3f50-4f33-9f13-d622816e47f7",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26ae6ae1-39e1-4dba-ad6f-d4aa5dc404d7",
+    "data": [
+      {
+        "text": "Ja das auch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b4d611f-da8c-4ae6-9e57-38a34337d30f",
+    "data": [
+      {
+        "text": "habe ich",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c70c9693-979c-495a-817d-cb8613966591",
+    "data": [
+      {
+        "text": "Ja",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ich habe Sputum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "330e572a-f19a-42c9-903e-e56b66391981",
+    "data": [
+      {
+        "text": "Ja",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " auch Sputum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86f9e252-7f4a-4796-93b4-e26a6d41461a",
+    "data": [
+      {
+        "text": "Ja",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " auch mit Sputum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

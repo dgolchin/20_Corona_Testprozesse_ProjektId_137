@@ -1,0 +1,44 @@
+{
+  "id": "7d548375-ad79-4432-9a7b-e15844b654fd",
+  "name": "ErregerUndKrankheit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c6e351f1-d018-465a-b342-c3c28ba776f5",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "CoronaSynonyme",
+          "value": "$CoronaSynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Der Hauptübertragungsweg scheint die Tröpfcheninfektion zu sein. Die Krankheitsverläufe sind unspezifisch, vielfältig und variieren stark, von symptomlosen Verläufen bis zu schweren Pneumonien mit Lungenversagen und Tod. Daher lassen sich keine allgemeingültigen Aussagen zum „typischen“ Krankheitsverlauf machen. Dabei verliefen rund 80 % der Erkrankungen milde bis moderat. „Mild bis moderat“ betrifft Patienten mit oder ohne Pneumonie, ohne Atemnot, mit einer Sauerstoffsättigung im Blut von über 93 % und ohne (CT-diagnostizierte) Lungeninfiltrate, die mehr als die Hälfte der Lunge betreffen (12). Vierzehn Prozent verliefen schwer (mit Atemnot, Sauerstoffsättigung unter 94%, oder Lungeninfiltraten in mehr als der Hälfte der Lunge), aber nicht lebensbedrohlich und in 6 % war der klinische Verlauf kritisch bis lebensbedrohlich (mit Lungenversagen, septischem Schock oder multiplem Organversagen). Außerhalb von Wuhan/Hubei und außerhalb von China gibt es teilweise Beobachtungen, dass der Anteil milder Verläufe höher als 80 % ist. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": "551df3b9-0f3c-4e8e-b9ba-6e3730cb15a9",
+  "parentId": "e135b246-3920-49cb-a776-d796fcb50c42",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "Kopfschmerzen",
+  "auto": true,
+  "contexts": [
+    "Kieferschmerzen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes.HustenVorhanden-yes.NaseZu-yes.Durchfall-yes.Abgeschlagenheit-yes.Sputum-yes.Atemprobleme-yes.Kieferschmerzen-yes",
+      "affectedContexts": [
+        {
+          "name": "Kopfschmerzen-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7c0fc8b8-f047-4c48-9712-95136d5d2375",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "72860296-dc53-4e9a-8b61-cf06c99fc169",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "KopfSkala",
+          "value": "$KopfSkala",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Wie stark schätzen Sie Ihre Kopfschmerzen auf einer Skala von 1 (leichte Kopfschmerzen) bis 10 (starke, stechende Kopfschmerzen) ein?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay, haben Sie Halsschmerzen?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

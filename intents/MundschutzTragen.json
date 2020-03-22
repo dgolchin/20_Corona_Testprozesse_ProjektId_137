@@ -1,0 +1,31 @@
+{
+  "id": "5d6ed13a-a215-41f1-9448-4803a98d87ff",
+  "name": "MundschutzTragen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "In der allgemeinen Bevölkerung sind die wichtigsten und effektivsten Maßnahmen zum persönlichen Schutz sowie zum Schutz von anderen Personen vor der Ansteckung mit Erregern respiratorischer Infektionen eine gute Händehygiene, Einhalten von Husten- und Niesregeln (niemals in die Hände) und das Abstandhalten (ca. 1 bis 2 Meter) von krankheitsverdächtigen Personen. Es gibt es keine hinreichende Evidenz dafür, dass das Tragen eines Mund-Nasen-Schutzes das Risiko einer Ansteckung für eine gesunde Person, die ihn trägt, signifikant verringert. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

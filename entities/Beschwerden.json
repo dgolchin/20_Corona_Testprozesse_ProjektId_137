@@ -1,0 +1,9 @@
+{
+  "id": "381dc966-f80f-4a9e-b1ed-eb2964ead645",
+  "name": "Beschwerden",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

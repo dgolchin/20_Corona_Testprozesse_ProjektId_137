@@ -1,0 +1,259 @@
+[
+  {
+    "id": "a98af893-6127-4f67-96cb-1c186968c9b9",
+    "data": [
+      {
+        "text": "Ich habe nicht die Möglichkeit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7aff82e-362f-497b-99b0-9617ce5c2d4a",
+    "data": [
+      {
+        "text": "Kann ich nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd7ca5b9-9f9c-416a-ba39-cad5c45ec0e2",
+    "data": [
+      {
+        "text": "Ich habe kein Thermometer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "faa8c155-c484-4496-8d5a-79707e672a9a",
+    "data": [
+      {
+        "text": "Nä",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fafd6f6-857d-49ad-babf-fc70bb944fc9",
+    "data": [
+      {
+        "text": "Mache ich später",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5acc7cb-b7d9-4228-8413-e42731d31505",
+    "data": [
+      {
+        "text": "Das habe ich noch nicht gemacht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d37360f5-1feb-493c-b96e-ab63c866f034",
+    "data": [
+      {
+        "text": "Noch nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6ee4a20-89f3-4b23-ac49-ad22405fb8b1",
+    "data": [
+      {
+        "text": "No",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ede691f-fb4d-49de-b55e-a3f501289dc2",
+    "data": [
+      {
+        "text": "Nö",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d07a4d57-18a4-4d92-a3bc-94390e160651",
+    "data": [
+      {
+        "text": "1",
+        "alias": "FieberSkala",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4055407a-a7e9-458d-b6ff-185eb605fd21",
+    "data": [
+      {
+        "text": "Nee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9c04d85-7311-46ab-b7f6-2471b84c8025",
+    "data": [
+      {
+        "text": "nee das habe ich nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7675057-4b50-4613-b184-2298b8b02052",
+    "data": [
+      {
+        "text": "kein Interesse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4d40a4fd-84b5-4ab6-87d1-a716686e3dd2",
+    "data": [
+      {
+        "text": "das möchte ich nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8c4ffe95-b13e-4c7a-a9a8-c1d4c4197e3e",
+    "data": [
+      {
+        "text": "mach das nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b314596f-230a-4700-b581-a70fc3c2cf8b",
+    "data": [
+      {
+        "text": "nein danke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "35c6db27-352d-4e77-b1e0-77767f2fbef6",
+    "data": [
+      {
+        "text": "nein",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "e4305619-9236-4749-9f77-c6de8bed308f",
+    "data": [
+      {
+        "text": "ich denke nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e57e3820-67a5-4001-a07a-a7d5044d17df",
+    "data": [
+      {
+        "text": "eigentlich nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "312f0c79-6630-4c54-9e8c-6e1956e9a2dc",
+    "data": [
+      {
+        "text": "ich bin nicht einverstanden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "27cee0d1-32ef-4141-8151-7dd26ae7598e",
+    "data": [
+      {
+        "text": "auf keinen Fall",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

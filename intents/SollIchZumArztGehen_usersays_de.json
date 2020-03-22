@@ -1,0 +1,338 @@
+[
+  {
+    "id": "67d5ed79-bf49-42a4-b5c2-296615006065",
+    "data": [
+      {
+        "text": "Sollte ",
+        "userDefined": false
+      },
+      {
+        "text": "er",
+        "alias": "person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Arzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e60347da-e6e1-4f7c-bb9f-4c5b0b13cde5",
+    "data": [
+      {
+        "text": "Soll ",
+        "userDefined": false
+      },
+      {
+        "text": "er",
+        "alias": "person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " ins ",
+        "userDefined": false
+      },
+      {
+        "text": "Krankenhaus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4629353b-61d2-4f92-9758-5fe6f56b9063",
+    "data": [
+      {
+        "text": "Ich",
+        "alias": "person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "weiß",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nicht ob ich zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Arzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen soll.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1b26e198-bd10-47ad-a6c3-8f4cfe9afd66",
+    "data": [
+      {
+        "text": "Soll ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "alias": "person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Arzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a71460d6-b732-4d91-bda9-524b26c1df76",
+    "data": [
+      {
+        "text": "Mir geht es nicht ",
+        "userDefined": false
+      },
+      {
+        "text": "gut",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sollte ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "alias": "person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Arzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecb090ef-0e09-4563-a01a-40be9ee23cf0",
+    "data": [
+      {
+        "text": "Ich",
+        "alias": "person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " fühle ",
+        "userDefined": false
+      },
+      {
+        "text": "mich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nicht ",
+        "userDefined": false
+      },
+      {
+        "text": "gut",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5932dc3-5225-46e9-aa23-a700df556300",
+    "data": [
+      {
+        "text": "Mir geht es nicht ",
+        "userDefined": false
+      },
+      {
+        "text": "gut",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a56920e5-a988-4840-b704-894224cc9a93",
+    "data": [
+      {
+        "text": "Sollte ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "alias": "person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Arzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b4aa9ef-2e56-4510-b880-5e18d04dff1e",
+    "data": [
+      {
+        "text": "Ich",
+        "alias": "person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " fühle ",
+        "userDefined": false
+      },
+      {
+        "text": "mich",
+        "alias": "person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "krank",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sollte ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "alias": "person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Arzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61efefcb-fcc2-4a0d-b9b2-596731e04cc0",
+    "data": [
+      {
+        "text": "Sollte ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "alias": "person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Arzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

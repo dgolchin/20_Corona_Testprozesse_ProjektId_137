@@ -1,0 +1,80 @@
+[
+  {
+    "id": "6ce9203f-f6bd-4876-8b3c-50f3b9f73dcc",
+    "data": [
+      {
+        "text": "Kann ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " sich verändern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf90a74f-5053-4c74-b1a6-4860f1702943",
+    "data": [
+      {
+        "text": "Kann ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " mutieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef3b01b7-a83f-4912-8105-8970be915b5e",
+    "data": [
+      {
+        "text": "Kann sich ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " weiterentwickeln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83577ffc-4b0a-457d-972c-15e96a4dbc11",
+    "data": [
+      {
+        "text": "Kann das Virus mutieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "4b59a4c7-cf61-4465-9ba3-7855974dde07",
+  "name": "WannQuarantaene",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Wenn ein hohes Risiko besteht, dass man sich angesteckt hat. Insbesondere wenn man innerhalb der letzten zwei Wochen engen Kontakt zu einem Erkrankten mit einer laborbestätigten COVID-19-Diagnose hatte. Ein wirklich enger Kontakt bedeutet entweder, dass man mindestens 15 Minuten mit dem Erkrankten gesprochen hat bzw. angehustet oder angeniest worden ist, während dieser ansteckend gewesen ist. Oder wenn das Gesundheitsamt dies anordnet. Stellen Sie mir gerne weitere Fragen zu $CoronaSynonyme"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "9954b7df-c482-4217-8099-8b1681565f43",
+    "data": [
+      {
+        "text": "Wie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kann man",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " die Erkrankungswelle  abfangen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "541b88e5-26ee-4a79-a9f3-c503a36eeb76",
+    "data": [
+      {
+        "text": "Was ",
+        "userDefined": false
+      },
+      {
+        "text": "kann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gegen die ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": true
+      },
+      {
+        "text": " Epidemie tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b6dd286-32a8-4fba-ae42-60a5d4664d56",
+    "data": [
+      {
+        "text": "Was muss getan werden, um der Erkrankungswelle bestmöglich zu begegnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

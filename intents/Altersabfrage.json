@@ -1,0 +1,61 @@
+{
+  "id": "080be8d7-88ee-40c8-807b-0450fd800844",
+  "parentId": "81522d18-4019-4e6d-b028-4b5e94a4ab66",
+  "rootParentId": "4f3b7070-5664-4592-9523-33b1e152bef4",
+  "name": "Altersabfrage",
+  "auto": true,
+  "contexts": [
+    "Uebelkeit-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schuettelfrost.Schuettelfrost-yes.Uebelkeit-yes.Uebelkeit-custom",
+      "affectedContexts": [
+        {
+          "name": "Altersabfrage-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "affa8bd7-0ed5-4aa0-ab0f-98b574bb0177",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "age",
+          "value": "$age",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Das habe ich nicht ganz verstanden. Wie alt sind Sie?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Alles klar, $age ist notiert. Sind Sie starker Raucher?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

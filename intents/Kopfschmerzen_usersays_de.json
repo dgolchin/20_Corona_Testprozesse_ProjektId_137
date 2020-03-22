@@ -1,0 +1,385 @@
+[
+  {
+    "id": "bccdbb5b-1d11-48a3-a414-1de12ec749ff",
+    "data": [
+      {
+        "text": "Ich denke schon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9b9cef5-5744-421c-ad08-7ff134320e74",
+    "data": [
+      {
+        "text": "Ja das glaube ich schon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29b1143b-9bfb-45ec-b707-1d4c8f7587f2",
+    "data": [
+      {
+        "text": "Ja eigentlich schon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fc53ba5-f466-4ded-b944-c737cdb7edd6",
+    "data": [
+      {
+        "text": "immer wieder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fa16ac3-7aae-4dcb-9e3e-2a215c8f876e",
+    "data": [
+      {
+        "text": "ab und zu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d60340b-9898-4571-83b8-6556d6fea13c",
+    "data": [
+      {
+        "text": "manchmal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78e9e41a-b777-4ab5-86a2-a665625025b9",
+    "data": [
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " wenig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f350571e-3fa5-44c5-98bf-e71aba4262b7",
+    "data": [
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisschen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c318a947-e797-44e0-8d7e-184a61570fa7",
+    "data": [
+      {
+        "text": "Viel",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "872d826a-0989-4f98-b86a-9b042b24b2cb",
+    "data": [
+      {
+        "text": "Sehr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5c46ccb-6c2c-429b-87e1-2d07b6d8ecba",
+    "data": [
+      {
+        "text": "Ja habe ich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8aa1cb0-acbc-4ff4-b39b-fa2cfeff355c",
+    "data": [
+      {
+        "text": "si",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84775f49-8dd8-45c8-81f3-8b60da1a135f",
+    "data": [
+      {
+        "text": "yes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7fdfa5f-ca56-4cc9-a126-be475c9f676f",
+    "data": [
+      {
+        "text": "joa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " habe ich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fdfebf7-8486-4807-b27c-15d68a00fd79",
+    "data": [
+      {
+        "text": "Natürlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb96a15c-7bdb-414b-9020-9e137d5db152",
+    "data": [
+      {
+        "text": "bestätigt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5144efdb-404b-4d10-a020-50a164bcc64d",
+    "data": [
+      {
+        "text": "bestätigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11bb1073-d007-4a11-8753-91d81c6c02fa",
+    "data": [
+      {
+        "text": "morgens",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5adb0dbf-bfe4-49ef-a5f6-cd20f769e6c8",
+    "data": [
+      {
+        "text": "klingt ",
+        "userDefined": false
+      },
+      {
+        "text": "gut",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14d659bd-5dd4-4ae9-b796-78e4e959b657",
+    "data": [
+      {
+        "text": "ist mir egal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06ea5df1-b7f6-4412-9f2a-276050e6107a",
+    "data": [
+      {
+        "text": "genau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b959da6a-ee15-4311-901d-2a28af4b4722",
+    "data": [
+      {
+        "text": "Klar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b71667bf-98e7-481e-9f33-646c3c4844bb",
+    "data": [
+      {
+        "text": "das ist richtig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7de9d51f-7f6e-4b54-8258-c135f12c03f6",
+    "data": [
+      {
+        "text": "Ja ich habe Kopfweh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d00d4595-7e88-4320-8bb5-44bc12d6625e",
+    "data": [
+      {
+        "text": "Ja ich verspüre Kopfschmerzen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17b1913a-3150-46e8-b2de-bbc8eff5c0c4",
+    "data": [
+      {
+        "text": "Ja ich habe Kopfschmerzen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4f464bb-6c83-4b98-bb6a-c813845cbaa8",
+    "data": [
+      {
+        "text": "Ja mein ",
+        "userDefined": false
+      },
+      {
+        "text": "Kopf",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " schmerzt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "414b446e-3faf-4455-9f8a-5d5a828fd674",
+    "data": [
+      {
+        "text": "Ich habe Kopfschmerzen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "627c7afc-25b8-42b8-b665-21696312c646",
+    "data": [
+      {
+        "text": "Ja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

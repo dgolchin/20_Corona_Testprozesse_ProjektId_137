@@ -1,0 +1,50 @@
+{
+  "id": "77f765e2-5a92-4076-9e92-250dcd221e73",
+  "name": "WoTrittEsAuf",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "WoTrittEsAuf-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "061439ae-9e5c-4fd2-83e4-ffd81befaba2",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "coronasynonyme",
+          "value": "$coronasynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Weltgesundheitsorganisation stuft COVID-19 seit dem 11.03.2020 als Pandemie ein. Also eine Krankheit, die (in diesem Fall) sich kontinentübergreifend ausgebreitet hat. Besonders betroffen sind bisher China, der Iran, Europa und die USA. Genauere Informationen zu den Fallzahlen in den einzelnen Ländern finden Sie auf der Webseite des Robert Koch Instituts oder der Weltgesundheitsorganisation. Stellen Sie mir gerne weitere Fragen zu $CoronaSynonyme"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

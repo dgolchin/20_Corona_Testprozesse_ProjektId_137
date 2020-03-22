@@ -1,0 +1,9 @@
+{
+  "id": "356f3e09-bed2-4dca-ba0a-dff70bc5a209",
+  "name": "CoronaSynonyme",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

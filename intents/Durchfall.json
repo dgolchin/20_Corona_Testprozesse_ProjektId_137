@@ -1,0 +1,73 @@
+{
+  "id": "058790d6-a984-474a-9b4d-d49b8dc22513",
+  "parentId": "edb392f7-295f-4141-a483-fd417772174d",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "Durchfall",
+  "auto": true,
+  "contexts": [
+    "NaseZu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes.HustenVorhanden-yes.NaseZu-yes",
+      "affectedContexts": [
+        {
+          "name": "Durchfall-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4ac1df44-c582-4ed0-bfa3-eb219afe35f9",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "name": "time-period",
+          "value": "$time-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f43e8da2-8d9a-45b7-a56a-8443342be109",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "DurchfallSkala",
+          "value": "$DurchfallSkala",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Auf einer Skala von 1 (leichter, unregelmäßiger Durchfall) bis 10 (starker, häufiger Durchfall) wie schätzen Sie es bei Ihnen ein?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay, verspüren Sie Trägheit?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

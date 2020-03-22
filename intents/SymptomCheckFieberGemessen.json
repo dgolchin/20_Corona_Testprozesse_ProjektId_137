@@ -1,0 +1,85 @@
+{
+  "id": "6ef16be4-7233-4997-afc1-330a2d06acee",
+  "parentId": "f50a9ea1-4c5c-44b1-b7a4-44a0259010ff",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "SymptomCheckFieberGemessen",
+  "auto": true,
+  "contexts": [
+    "EinschaetzungSymptome-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes",
+      "affectedContexts": [
+        {
+          "name": "SymptomCheckFieberGemessen-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "91a8d54f-760b-4b90-ab91-a11306839f96",
+          "required": false,
+          "dataType": "@Person",
+          "name": "Person",
+          "value": "$Person",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f1bd6101-9a22-4df8-9609-70ddbf6045d7",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "GradFieber",
+          "value": "$GradFieber",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Wie viel Grad Fieber haben Sie gemessen?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "b40162a8-9d5e-403f-8588-45d7e38daf8d",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "name": "time-period",
+          "value": "$time-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay. Haben Sie auch Husten?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

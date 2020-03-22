@@ -1,0 +1,857 @@
+[
+  {
+    "id": "51cbc4b4-ce1b-46d7-a7d6-2382dc1d989a",
+    "data": [
+      {
+        "text": "Ich",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " fühle ",
+        "userDefined": false
+      },
+      {
+        "text": "mich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nicht ",
+        "userDefined": false
+      },
+      {
+        "text": "gut",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0edf5bf8-c200-46db-bda8-ee2493bb7408",
+    "data": [
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " fühle mich schlecht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "737876e5-32d1-4a0d-9f72-041d0bedc7bb",
+    "data": [
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " habe ",
+        "userDefined": false
+      },
+      {
+        "text": "husten",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " und ",
+        "userDefined": false
+      },
+      {
+        "text": "fieber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3047f0e6-42e4-4d10-89f2-849d382c69ec",
+    "data": [
+      {
+        "text": "Mir geht es nicht ",
+        "userDefined": false
+      },
+      {
+        "text": "gut",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a1379db3-a7ae-4211-81a7-11358aaddce4",
+    "data": [
+      {
+        "text": "ich glaube ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " habe ",
+        "userDefined": false
+      },
+      {
+        "text": "fieber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03a3beae-ed4c-44d3-b384-b746a0562caf",
+    "data": [
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " habe ",
+        "userDefined": false
+      },
+      {
+        "text": "fieber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6986e8a8-38ef-4119-9438-80b2d065f1a5",
+    "data": [
+      {
+        "text": "es könnte sein dass ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " symptome habe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0c81c60-9811-4998-9664-1bbfeefd022b",
+    "data": [
+      {
+        "text": "ich vermute ich habe symptome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "572344bd-827b-4b43-90f3-42f76f84d2f2",
+    "data": [
+      {
+        "text": "ich glaube ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " paar symptome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abd5426f-3f2e-4636-93e6-a315b151bdf1",
+    "data": [
+      {
+        "text": "ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " symptome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4b0c17d-45a4-4ff7-a50c-fb40c365eabf",
+    "data": [
+      {
+        "text": "Ich habe Symptome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be8132c7-d61a-4f17-b1d3-d848647289e2",
+    "data": [
+      {
+        "text": "Ich benötige ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Einschätzung zu meinen Symptomen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c1f7b2f-0519-45b5-a740-4549ed3d3674",
+    "data": [
+      {
+        "text": "Ich benötige ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Ersteinschätzung zu meinen Symptomen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c726944b-bb95-4838-a505-14d649722979",
+    "data": [
+      {
+        "text": "Ich brauche ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Ersteinschätzung zu meinen Symptomen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd15dbfb-aa7e-4f43-a478-2c8a40987109",
+    "data": [
+      {
+        "text": "Symptomcheck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc9ae4de-5b68-46b2-a772-4a6beb145d52",
+    "data": [
+      {
+        "text": "Ja ",
+        "userDefined": false
+      },
+      {
+        "text": "beides",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e57eb2e-6f93-42bf-9be0-0482f8724c7d",
+    "data": [
+      {
+        "text": "Ja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fc90eb6-0df1-4be6-b01a-049574a46e69",
+    "data": [
+      {
+        "text": "Guten",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Tag, mir geht es schlecht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb441d0f-c9c1-4e02-bf4c-9ecf6f3ba40e",
+    "data": [
+      {
+        "text": "Ich brauche eine Einschätzung zu meinen symptomen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "453cd091-e2b9-4b47-863b-b584d4a12ddb",
+    "data": [
+      {
+        "text": "Ihm",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": true
+      },
+      {
+        "text": " geht ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " schlecht.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6760865a-c496-4f42-978a-077c6ccb4bb1",
+    "data": [
+      {
+        "text": "Ihm",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": true
+      },
+      {
+        "text": " ist schlecht.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c26b6490-1c83-47fd-be27-31cf4c98953a",
+    "data": [
+      {
+        "text": "Ich",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " bin ",
+        "userDefined": false
+      },
+      {
+        "text": "krank",
+        "alias": "Beschwerden",
+        "meta": "@Beschwerden",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f716f39-619f-44ca-af34-99ae44ccd021",
+    "data": [
+      {
+        "text": "Er",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " hat Kopfschmerzen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2652d69-0508-4d67-8800-09ff986315c5",
+    "data": [
+      {
+        "text": "Er",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " fühlt ",
+        "userDefined": false
+      },
+      {
+        "text": "sich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nicht",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " so ",
+        "userDefined": false
+      },
+      {
+        "text": "gut",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b2a3238-2c65-44b6-bc08-46bb747554f9",
+    "data": [
+      {
+        "text": "Sollte er zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Arzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5563bbf4-ccff-4ece-9db5-4e583ddfef91",
+    "data": [
+      {
+        "text": "Ich",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " habe ",
+        "userDefined": false
+      },
+      {
+        "text": "Kopfschmerzen",
+        "alias": "Beschwerden",
+        "meta": "@Beschwerden",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c33d92bb-66ed-4c8d-919a-de8987f559d9",
+    "data": [
+      {
+        "text": "Meine Nase ist",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " zu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cd32caf-dff7-47ed-b307-10eb9cb1167d",
+    "data": [
+      {
+        "text": "Meine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nase",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ist",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " verstopft",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8e1a4d56-9a92-49cd-a7fd-f5fe256e9a10",
+    "data": [
+      {
+        "text": "Mir ist schlecht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47a05714-dd50-4f40-80ca-1d0c672432be",
+    "data": [
+      {
+        "text": "Er",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": true
+      },
+      {
+        "text": " will wissen, ob er das Corona Virus hat.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "920f2440-1cf4-4b02-a0bb-bb9c93279486",
+    "data": [
+      {
+        "text": "Habe",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ich das ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus?",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d9a86fd-cbe9-418c-8117-4958d3e8d7fc",
+    "data": [
+      {
+        "text": "Er",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " möchte wissen, ob er ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " hat.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1b93067-db00-452d-9515-4c36c1615566",
+    "data": [
+      {
+        "text": "Er",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " möchte seine Symptome einschätzen lassen.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b47bbab-5764-4b88-99e7-d888ac4b3172",
+    "data": [
+      {
+        "text": "Habe",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44e788f6-9b38-4a27-bc1c-0da66d5cc2ac",
+    "data": [
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " symptomeinschätzung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a2088b7-a134-4a30-bf4f-2ae6764112c3",
+    "data": [
+      {
+        "text": "Ich",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": true
+      },
+      {
+        "text": " hätte gerne ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Symptomeinschätzung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce0c1926-7ea1-4825-ac07-479256c5327a",
+    "data": [
+      {
+        "text": "Symptomeinschätzung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d7bc086-26f1-49d5-a8d5-0dac9a7f8d67",
+    "data": [
+      {
+        "text": "Einschätzung zu meinen Symptomen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a897664b-d91c-4b16-b0f3-42fade97bd1f",
+    "data": [
+      {
+        "text": "Ich",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " wissen ob ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " habe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f966df46-a0ff-4b53-8797-413ed437278f",
+    "data": [
+      {
+        "text": "Ich",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " meine Symptome einschätzen lassen.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

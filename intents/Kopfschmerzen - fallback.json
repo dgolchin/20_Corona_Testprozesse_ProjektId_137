@@ -1,0 +1,36 @@
+{
+  "id": "feff6f2a-c97d-4716-9c51-60b740140394",
+  "parentId": "e135b246-3920-49cb-a776-d796fcb50c42",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "Kopfschmerzen - fallback",
+  "auto": false,
+  "contexts": [
+    "Kieferschmerzen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes.HustenVorhanden-yes.NaseZu-yes.Durchfall-yes.Abgeschlagenheit-yes.Sputum-yes.Atemprobleme-yes.Kieferschmerzen-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Tut mir leid das habe ich nicht verstanden. Haben Sie Kopfschmerzen?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

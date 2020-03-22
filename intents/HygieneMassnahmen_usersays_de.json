@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a64f8e5b-b4b1-42b1-a322-b4366c23147b",
+    "data": [
+      {
+        "text": "Was Hygienemassnahmen sollte ich ergreifen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c0fa4ee-a17e-4ed4-87ea-46a4f71a2b23",
+    "data": [
+      {
+        "text": "Was für Hygieneregeln sollten ",
+        "userDefined": false
+      },
+      {
+        "text": "Altenheime",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " befolgen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf681eea-5dba-4967-9514-16ef7a0a219b",
+    "data": [
+      {
+        "text": "Welche Hygienemaßnahmen gibt es für ",
+        "userDefined": false
+      },
+      {
+        "text": "Altenheime",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82a24dc5-cdb0-4a71-ad05-891e6a4fb72b",
+    "data": [
+      {
+        "text": "Welche Hygienemaßnahmen gibt es für medizinische Einrichtungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1b05645-7be9-4303-9f66-f2f8bf10a5c4",
+    "data": [
+      {
+        "text": "Welche Hygienemaßnahmen sollten in medizinischen Einrichtungen bei der Pflege und Behandlung von Patienten mit unspezifischen akuten respiratorischen Infektionen getroffen werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

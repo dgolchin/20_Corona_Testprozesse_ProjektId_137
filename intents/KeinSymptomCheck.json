@@ -1,0 +1,36 @@
+{
+  "id": "0a877658-1de2-4f4e-ad51-f1ed7352bc2a",
+  "parentId": "52663cc9-fed8-454e-869c-b484f19a4b08",
+  "rootParentId": "52663cc9-fed8-454e-869c-b484f19a4b08",
+  "name": "KeinSymptomCheck",
+  "auto": true,
+  "contexts": [
+    "SollIchZumArztGehen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SollIchZumArztGehen.SollIchZumArztGehen-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay, fragen Sie mich gerne zu anderen Informationen über das Coronavirus."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

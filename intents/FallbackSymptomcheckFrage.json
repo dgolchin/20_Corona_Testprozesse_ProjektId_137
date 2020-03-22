@@ -1,0 +1,39 @@
+{
+  "id": "03146559-2717-44e0-b7fa-19aaaab34989",
+  "parentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "FallbackSymptomcheckFrage",
+  "auto": false,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": [
+            "Das habe ich leider nicht ganz verstanden. Können Sie das bitte nochmal anders formulieren?",
+            "Das habe ich noch nicht verstanden. Formulier das bitter nochmal anders."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

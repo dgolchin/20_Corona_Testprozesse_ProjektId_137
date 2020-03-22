@@ -1,0 +1,31 @@
+{
+  "id": "0dad9ff9-0073-44be-82ae-f5f12b50e5d4",
+  "name": "HygieneMassnahmen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Grundsätzlich sollten bereits bei begründetem Verdacht auf eine übertragbare Erkrankung geeignete Präventions- und Schutzmaßnahmen eingeleitet werden, um die nosokomiale Verbreitung des Erregers zu verhindern. Bei Erregern von akuten respiratorischen Infektionen, z.B. Influenzaviren oder RSV, sind zusätzlich zur Basishygiene weitere Maßnahmen erforderlich, um eine Übertragung durch Tröpfchen zu unterbinden.  Unterbringung des Patienten in einem Einzelzimmer möglichst mit eigener Nasszelle,  Verwendung einer persönlichen Schutzausrüstung beim Personal, bestehend aus Schutzkittel, Einmalhandschuhen und direkt anliegendem mehrlagigem Mund-Nasen-Schutz sowie ggf. einer Schutzbrille, beim Betreten des Patientenzimmers, bei Tätigkeiten, die direkt am Patienten oder in dessen Nähe ausgeführt werden, der Patient ebenfalls einen Mund-Nasen-Schutz tragen, insbesondere wenn die Beschäftigten dabei Hustenstößen der Patienten ausgesetzt sein können. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

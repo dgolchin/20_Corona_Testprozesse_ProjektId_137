@@ -1,0 +1,68 @@
+[
+  {
+    "id": "e2d7e35f-cd30-41f4-a83e-05abf943cb28",
+    "data": [
+      {
+        "text": "Ich bin nicht krank aber ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mich testen lassen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d5b9906-64bb-415b-ab23-be3d4ed18589",
+    "data": [
+      {
+        "text": "Soll ich mich testen lassen, obwohl ich gesund bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2d11e78-b5c7-43cb-9642-f9d280738284",
+    "data": [
+      {
+        "text": "Soll ich mich vorsichtshalber testen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c3771a3-406a-49b3-9053-c7acb89aba1c",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Test bei Personen ohne jedes Krankheitszeichen sinnvoll?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

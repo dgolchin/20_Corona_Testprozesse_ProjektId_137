@@ -1,0 +1,46 @@
+{
+  "id": "71252f2c-bdd9-48ec-98aa-0560848a8b15",
+  "parentId": "6ef16be4-7233-4997-afc1-330a2d06acee",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "KeinHusten",
+  "auto": true,
+  "contexts": [
+    "SymptomCheckFieberGemessen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-no",
+      "affectedContexts": [
+        {
+          "name": "NaseZu-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": [
+            "Okay. Haben Sie Durchfall?",
+            "Haben Sie Durchfall?",
+            "Leiden Sie an Durchfall?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

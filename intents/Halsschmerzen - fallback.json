@@ -1,0 +1,36 @@
+{
+  "id": "7b37a2cb-7cac-4055-bfd5-7a7c793b9437",
+  "parentId": "551df3b9-0f3c-4e8e-b9ba-6e3730cb15a9",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "Halsschmerzen - fallback",
+  "auto": false,
+  "contexts": [
+    "Kopfschmerzen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes.HustenVorhanden-yes.NaseZu-yes.Durchfall-yes.Abgeschlagenheit-yes.Sputum-yes.Atemprobleme-yes.Kieferschmerzen-yes.Kopfschmerzen-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Tut mir leid, das habe ich nicht verstanden. Haben Sie Halsschmerzen?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

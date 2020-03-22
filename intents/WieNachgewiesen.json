@@ -1,0 +1,31 @@
+{
+  "id": "5a9a1d4c-ad2a-471b-a5d5-f722333cba8d",
+  "name": "WieNachgewiesen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Für die Feststellung einer akuten Infektion mit dem SARS-CoV-2 ist der direkte Erregernachweis ausschlaggebend. Das Virusgenom wird über hoch-sensitive, molekulare Testsysteme nachgewiesen (real-time PCR). Die reine Testzeit beträgt etwa 4 bis 5 Stunden. Die Zeit zwischen Probenentnahme und Ergebnismitteilung kann nach ein bis zwei Tagen vorliegen, je nach Probenaufkommen kann die Ergebnismitteilung deutlich länger dauern. Stellen Sie mir gerne weitere Fragen zu $CoronaSynonyme"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

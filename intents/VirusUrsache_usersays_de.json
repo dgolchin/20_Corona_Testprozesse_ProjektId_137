@@ -1,0 +1,82 @@
+[
+  {
+    "id": "089df47e-97c8-4d9b-8f74-d08b55256203",
+    "data": [
+      {
+        "text": "Wo ist Corona ausgebrochen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7c60bee-1e11-49aa-b4f0-a576cb72f265",
+    "data": [
+      {
+        "text": "Woher kommt ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24243695-034e-4068-a210-bd05517836dc",
+    "data": [
+      {
+        "text": "Wo kommt ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " her?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c708aaf2-db01-4147-899d-3bd60bcbaba8",
+    "data": [
+      {
+        "text": "Wo kommt es her?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55840a4e-bc54-42eb-87db-c7f0c31b71c7",
+    "data": [
+      {
+        "text": "Was ist über die Ursache dieses Ausbruchs bekannt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

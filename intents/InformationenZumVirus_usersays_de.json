@@ -1,0 +1,266 @@
+[
+  {
+    "id": "aea6b689-73a1-416d-ab93-c7f874bf00c9",
+    "data": [
+      {
+        "text": "Ich hätte gerne Informationen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "358f31cc-0632-4f59-854b-a92cac09fdaa",
+    "data": [
+      {
+        "text": "Ich ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " etwas über das ",
+        "userDefined": false
+      },
+      {
+        "text": "Virus",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": true
+      },
+      {
+        "text": " erfahren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3ba90f9-be63-4e59-8c65-15ca028d62d2",
+    "data": [
+      {
+        "text": "Ich ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " etwas über das ",
+        "userDefined": false
+      },
+      {
+        "text": "Virus",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": true
+      },
+      {
+        "text": " wissen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ec7662a-8b1a-4608-bc4a-a686de053b20",
+    "data": [
+      {
+        "text": "Ich möchte etwas über das ",
+        "userDefined": false
+      },
+      {
+        "text": "Virus",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": true
+      },
+      {
+        "text": " wissen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d110d469-42d5-4e79-b663-e7a8c36786ab",
+    "data": [
+      {
+        "text": "Ich ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Infos zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Virus",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ae8b259-31f2-4154-ad2f-ab9f2724e98e",
+    "data": [
+      {
+        "text": "Gib",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mir Infos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9846dc1a-d51e-4da2-9dc4-9de989be5509",
+    "data": [
+      {
+        "text": "Infos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68a52f1d-8b12-48c7-bad1-368adbe325c0",
+    "data": [
+      {
+        "text": "Ich ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Infos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc1f6c36-6b81-4509-bd58-1a544b02e1b6",
+    "data": [
+      {
+        "text": "Informationen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b968b1c-f2cf-4531-8e8d-4d0a4d7b962b",
+    "data": [
+      {
+        "text": "Gib",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mir Informationen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02dec59a-e874-4fb1-ac1d-81f3cc0fcb4c",
+    "data": [
+      {
+        "text": "Ich ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Informationen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c625588-fed4-48cd-b53b-e05eab4161b1",
+    "data": [
+      {
+        "text": "Ich möchte Informationen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df284ae4-19a0-425f-b2e8-243228cb18bd",
+    "data": [
+      {
+        "text": "Ich brauche Informationen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60c1cb6a-f67a-49ff-9ad3-8942918a76ad",
+    "data": [
+      {
+        "text": "Ich hätte gerne Informationen zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Virus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

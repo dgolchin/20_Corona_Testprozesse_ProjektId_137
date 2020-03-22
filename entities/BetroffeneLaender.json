@@ -1,0 +1,9 @@
+{
+  "id": "e533751c-0a22-437b-8d2a-a47e3322f1e9",
+  "name": "BetroffeneLaender",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

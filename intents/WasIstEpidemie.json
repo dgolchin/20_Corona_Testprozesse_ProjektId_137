@@ -1,0 +1,44 @@
+{
+  "id": "535159ac-257d-4901-ba13-2f86a4ff9be3",
+  "name": "WasIstEpidemie",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "43627cbf-6a21-4da4-a6a1-93595fab98c4",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Erkrankungswelle, epidemisches Geschehen (veraltet: Seuchengeschehen); im Vergleich zur Ausgangssituation treten bestimmte Erkrankungsfälle mit einheitlicher Ursache vermehrt auf, der Prozess ist zeitlich und räumlich begrenzt. Der Begriff bezieht sich meist auf Infektionskrankheiten, dies ist aber keine Bedingung. Eine besonders hohe Zahl an Erkrankungen, eine besondere gesellschaftliche Bedeutung oder eine Gefährdung vieler Personen sind ebenfalls keine notwendigen Bedingungen, obwohl eine Epidemie im üblichen Sprachgebrauch meist mit diesen Merkmalen verknüpft wird. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

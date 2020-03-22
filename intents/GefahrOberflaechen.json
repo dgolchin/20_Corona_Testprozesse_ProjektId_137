@@ -1,0 +1,44 @@
+{
+  "id": "ca22ce4d-9787-4025-ad79-cbeded1dfa14",
+  "name": "GefahrOberflaechen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0534904d-3746-4669-be95-860721751ebf",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "coronasynonyme",
+          "value": "$coronasynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Bei Coronaviren, die respiratorische Erkrankungen verursachen können, erfolgt die Übertragung primär über Sekrete des Respirationstraktes. Gelangen diese infektiösen Sekrete an die Hände, die dann beispielsweise das Gesicht berühren, ist es möglich, dass auch auf diese Weise eine Übertragung stattfindet. Deshalb ist eine gute Händehygiene wichtiger Teil der Prävention. Generell gilt: Die Übertragungsmöglichkeiten über Oberflächen hängen von vielen verschiedenen Faktoren ab. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

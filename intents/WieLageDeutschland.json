@@ -1,0 +1,44 @@
+{
+  "id": "8ad07a4b-fd3a-462b-9e00-c63981d3733f",
+  "name": "WieLageDeutschland",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ec21c08b-a9e5-4bec-9c78-daffad3af531",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "coronasynonyme",
+          "value": "$coronasynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Die weltweite Ausbreitung von COVID-19 wurde am 11.03.2020 von der WHO zu einer Pandemie erklärt. Das Robert Koch-Institut erfasst kontinuierlich die aktuelle Lage, bewertet alle Informationen und schätzt das Risiko für die Bevölkerung in Deutschland ein. Mehr Informationen finden Sie auf der Website des RKI. Stellen Sie mir gerne weitere Fragen zu $CoronaSynonyme"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

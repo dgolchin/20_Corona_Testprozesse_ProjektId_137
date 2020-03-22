@@ -1,0 +1,174 @@
+[
+  {
+    "id": "0315a17d-5348-484e-b8f0-837b31957e6d",
+    "data": [
+      {
+        "text": "Stimmt ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", dass man ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " behandeln kann?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f028066d-b211-4f1b-a279-2cbbcc5e59d0",
+    "data": [
+      {
+        "text": "Stimmt ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", dass man ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " nicht behandeln kann?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7919739-beb0-4a7f-b014-0896afdd94a1",
+    "data": [
+      {
+        "text": "Kann man ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " behandeln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96057b49-d50c-4409-9789-cecb5e029e66",
+    "data": [
+      {
+        "text": "Stehen Behandlungsmöglichkeiten für ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " zur Verfügung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0e38022-43a5-436b-bf6d-51a20a1ab2ed",
+    "data": [
+      {
+        "text": "Gibt es Behandlungsmöglichkeiten für ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffd689c1-c533-4329-9149-876fb0a61358",
+    "data": [
+      {
+        "text": "Wie kann man ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " behandeln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3462248-8d8b-4e25-ac9c-26792476d33c",
+    "data": [
+      {
+        "text": "Welche Behandlungsmöglichkeiten stehen für das neuartige ",
+        "userDefined": false
+      },
+      {
+        "text": "Coronavirus",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": true
+      },
+      {
+        "text": " zur Verfügung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

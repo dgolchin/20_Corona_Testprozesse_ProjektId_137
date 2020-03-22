@@ -1,0 +1,44 @@
+{
+  "id": "6db3128f-7e02-4ac7-b475-9fedf863f7c0",
+  "name": "SchwangerKinderCovid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d1775b6c-8e11-46a6-a3a1-4fd2e89de1e8",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "coronasynonyme",
+          "value": "$coronasynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Bisherigen Daten zufolge ist die Symptomatik von COVID-19 bei Kindern deutlich geringer ausgeprägt ist als bei Erwachsenen. Schwangere scheinen der WHO und deren Daten aus China zufolge kein erhöhtes Risiko für einen schweren Krankheitsverlauf zu haben. Es gibt bislang keine Hinweise darauf, dass COVID-19 auf das Kind im Mutterleib übertragbar ist. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

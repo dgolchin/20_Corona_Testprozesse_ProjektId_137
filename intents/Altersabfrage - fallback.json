@@ -1,0 +1,36 @@
+{
+  "id": "1dfe6298-58ee-427a-8c00-079550587e8e",
+  "parentId": "81522d18-4019-4e6d-b028-4b5e94a4ab66",
+  "rootParentId": "4f3b7070-5664-4592-9523-33b1e152bef4",
+  "name": "Altersabfrage - fallback",
+  "auto": false,
+  "contexts": [
+    "Uebelkeit-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schuettelfrost.Schuettelfrost-yes.Uebelkeit-yes.Uebelkeit-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Entschuldigung, das habe ich nicht verstanden. Bitte teilen Sie mir Ihr Alter mit."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

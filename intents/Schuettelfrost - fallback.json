@@ -1,0 +1,36 @@
+{
+  "id": "412a0173-d6dc-42e9-ad29-bdda656eddb4",
+  "parentId": "4f3b7070-5664-4592-9523-33b1e152bef4",
+  "rootParentId": "4f3b7070-5664-4592-9523-33b1e152bef4",
+  "name": "Schuettelfrost - fallback",
+  "auto": false,
+  "contexts": [
+    "Schuettelfrost-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schuettelfrost.Schuettelfrost-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Entschuldigung, das habe ich nicht verstanden. Haben Sie Schüttelfrost?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

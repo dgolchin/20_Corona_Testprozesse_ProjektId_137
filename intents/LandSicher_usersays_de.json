@@ -1,0 +1,128 @@
+[
+  {
+    "id": "146547b0-4042-4bc5-871c-eda24ad81826",
+    "data": [
+      {
+        "text": "Wo erfährt man, ob ",
+        "userDefined": false
+      },
+      {
+        "text": "ein Reiseland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " noch sicher ist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "697c944d-15f7-4532-8975-312ef330b3a4",
+    "data": [
+      {
+        "text": "Wie ",
+        "userDefined": false
+      },
+      {
+        "text": "weiß",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ich, ob ",
+        "userDefined": false
+      },
+      {
+        "text": "ein Land",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": true
+      },
+      {
+        "text": " Sicher ist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93aac541-d887-4c99-b9db-88a5566a08a5",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Italien",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": true
+      },
+      {
+        "text": " Sicher?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29d8c70e-329b-444e-a95a-664ad06982d5",
+    "data": [
+      {
+        "text": "Welche Länder sind noch sicher, trotz ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b20a0f0-b884-436a-a63e-82a46aa759a0",
+    "data": [
+      {
+        "text": "Wo erfährt man, ob eine Reise in ein betroffenes Land noch sicher ist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

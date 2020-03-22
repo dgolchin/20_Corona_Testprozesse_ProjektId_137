@@ -1,0 +1,60 @@
+{
+  "id": "5da08311-b98d-4a28-bf16-38f5dce48c0c",
+  "name": "TrittEsAufIn",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fbf1fc37-1299-4e52-81bb-7783c237f3c0",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "coronasynonyme",
+          "value": "$coronasynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "2694862e-b013-4046-a817-3db19ea93583",
+          "required": false,
+          "dataType": "@BetroffeneLaender",
+          "name": "betroffenelaender",
+          "value": "$betroffenelaender",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Ja, Fälle in $betroffenelaender sind bestätigt. Genauere Fallzahlen dazu liefern Ihnen die Webseiten des Robert Koch Instituts oder der Weltgesundheitsorganisation. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

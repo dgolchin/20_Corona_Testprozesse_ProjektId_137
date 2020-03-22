@@ -1,0 +1,47 @@
+[
+  {
+    "id": "eed9fd34-97ef-4dd9-97fd-a80ca80d8e9f",
+    "data": [
+      {
+        "text": "Was versteht man unter ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Pandemie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31f42549-97e2-4be5-bf26-8c6d97ee2263",
+    "data": [
+      {
+        "text": "Was ist Pandemie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19ed27c4-c4a0-42c1-a6dd-823f100d4b6c",
+    "data": [
+      {
+        "text": "Was ist eine Pandemie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

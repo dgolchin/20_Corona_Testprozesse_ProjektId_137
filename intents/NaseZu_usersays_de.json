@@ -1,0 +1,394 @@
+[
+  {
+    "id": "c5ea4e8a-b26d-491a-aee2-eb3465f7f416",
+    "data": [
+      {
+        "text": "Meine ",
+        "userDefined": false
+      },
+      {
+        "text": "Nase",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ist zu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80346049-fc53-45b6-876a-df4158bba1da",
+    "data": [
+      {
+        "text": "Ja meine ",
+        "userDefined": false
+      },
+      {
+        "text": "Nase",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ist auch verstopft",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6c1b1e0-7dd0-41d8-bcd5-80e6c20ec45d",
+    "data": [
+      {
+        "text": "Ja meine ",
+        "userDefined": false
+      },
+      {
+        "text": "Nase",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ist verstopft",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f259f531-b6ef-4537-867a-e121556e2ad2",
+    "data": [
+      {
+        "text": "Ja ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " verstopfte ",
+        "userDefined": false
+      },
+      {
+        "text": "Nase",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d04f6080-4255-4a41-8d3a-4c4956b5c7c2",
+    "data": [
+      {
+        "text": "habe ich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4934c2d8-7e4b-4c6c-8481-a63a5f5c8263",
+    "data": [
+      {
+        "text": "mach das",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d933c0d-47e7-4c3c-a34e-925fc21103a8",
+    "data": [
+      {
+        "text": "ja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "ef8ee096-4c57-438d-9d0c-7fc33a95f47d",
+    "data": [
+      {
+        "text": "natürlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6dfa79a0-cfc2-45ad-8a36-8db0aab2f2d5",
+    "data": [
+      {
+        "text": "bestätigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16ffc95a-fae7-42c8-958a-3f5d8d944fb1",
+    "data": [
+      {
+        "text": "klingt gut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1964be4f-477d-4ad6-b86e-a2e5ed2da01c",
+    "data": [
+      {
+        "text": "Si",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00a88c90-412f-4061-acb9-9cb23411b373",
+    "data": [
+      {
+        "text": "Yes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c379c4f-471c-47f4-a01d-fc1e9dd0c45d",
+    "data": [
+      {
+        "text": "Sehr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "823a9827-6ecb-4d29-839b-4c58ff8a5587",
+    "data": [
+      {
+        "text": "Viel",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4f53b5f-d789-4785-a33b-02ffcb6776aa",
+    "data": [
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisschen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c980102c-d035-42ae-976b-1ecb3b88e14a",
+    "data": [
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " wenig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7aa829ab-c2d2-49c6-b194-218af7ef0693",
+    "data": [
+      {
+        "text": "Manchmal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fea9c4f-6600-4f79-86b5-5bb3052f99ef",
+    "data": [
+      {
+        "text": "Ab und zu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63229bf4-8438-4644-a45a-cb5a061162cc",
+    "data": [
+      {
+        "text": "Ja eigentlich schon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "661a00aa-526a-4d6a-8e7d-6a4cdd6a27c6",
+    "data": [
+      {
+        "text": "Ja das glaube ich schon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2803994-a1a7-4487-9db6-b6127ce9c0fa",
+    "data": [
+      {
+        "text": "Ich denke schon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e5c1fa2-dce0-4437-b1d7-8065d46576e5",
+    "data": [
+      {
+        "text": "Immer wieder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "498d1612-2299-4495-a459-c74757636099",
+    "data": [
+      {
+        "text": "morgens",
+        "alias": "time-period",
+        "meta": "@sys.time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80468716-332b-478f-9ccd-c3832574176d",
+    "data": [
+      {
+        "text": "ist mir egal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e511cb4b-c2f4-462c-90aa-cb69af37afde",
+    "data": [
+      {
+        "text": "genau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "8c98f840-aa61-4e27-8b6c-e7e745a85e86",
+    "data": [
+      {
+        "text": "klar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8e1e2665-1eeb-43b8-9ed6-81fc7c8f0e6d",
+    "data": [
+      {
+        "text": "das ist richtig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7c31ab7a-1d9c-4131-bd55-e8ae2fe881dc",
+    "data": [
+      {
+        "text": "einverstanden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

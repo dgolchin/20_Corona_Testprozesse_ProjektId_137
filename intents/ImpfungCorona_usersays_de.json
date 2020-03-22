@@ -1,0 +1,180 @@
+[
+  {
+    "id": "152c8e12-7881-40fd-a12d-e4e5072c6b94",
+    "data": [
+      {
+        "text": "Wo kann man sich gegen das ",
+        "userDefined": false
+      },
+      {
+        "text": "Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " impfen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5de72d8b-72b1-463b-acdc-a30173a14208",
+    "data": [
+      {
+        "text": "Kann man sich gegen ",
+        "userDefined": false
+      },
+      {
+        "text": "Covid",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " impfen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f191aa7-3678-43de-b8f0-e3df81b26b6b",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Impfstoff",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " für das ",
+        "userDefined": false
+      },
+      {
+        "text": "Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29abaf35-d6f4-40a2-ad99-beae99de6f65",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Impfung gegen ",
+        "userDefined": false
+      },
+      {
+        "text": "Covid",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1cbb9cb-b324-4335-8892-edd0624b4d85",
+    "data": [
+      {
+        "text": "Kann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mich gegen ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " impfen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a928d30-3f45-4ce0-857f-53d1021b1ee7",
+    "data": [
+      {
+        "text": "Kann man",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sich gegen ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " impfen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

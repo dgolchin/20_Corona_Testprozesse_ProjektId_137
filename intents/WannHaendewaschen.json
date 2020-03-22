@@ -1,0 +1,56 @@
+{
+  "id": "aedab59d-7df7-4bee-8619-65cccc95de83",
+  "name": "WannHaendewaschen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "99816e17-5c10-45b8-b429-62960b8f33cc",
+          "required": false,
+          "dataType": "@Person",
+          "name": "person",
+          "value": "$person",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1ed224bf-5d17-47b0-8fd9-3ba68e01733c",
+          "required": false,
+          "dataType": "@Person",
+          "name": "person1",
+          "value": "$person1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Hände sollten nicht nur gewaschen werden, wenn sie sichtbar schmutzig sind. Denn Krankheitserreger sind mit dem bloßen Auge nicht zu erkennen. Daher sollten Sie sich im Alltag regelmäßig die Hände waschen, insbesondere bei folgenden Anlässen: immer nach dem, dem nach Hause kommen, dem Besuch des WC,  dem Wechseln von Windeln oder wenn Sie Ihrem Kind nach dem Toilettengang bei der Reinigung geholfen haben, dem Naseputzen, Husten oder Niesen, dem Kontakt mit Abfällen, dem Kontakt mit Tieren, Tierfutter oder tierischem Abfall. Außerdem vor jedem Essen, dem Hantieren mit Medikamenten oder Kosmetika und vor und nach der Zubereitung von Speisen sowie öfter zwischendurch, besonders wenn Sie rohes Fleisch verarbeitet haben, Kontakt zu kranken hatten oder Wunden behandeln. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

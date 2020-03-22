@@ -1,0 +1,119 @@
+[
+  {
+    "id": "9c09391a-b229-435a-8f51-6899fe25c7a8",
+    "data": [
+      {
+        "text": "Hilft es ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Mundschutz zu tragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ed5e9b8-4b93-4f04-8b2a-72d2689c10ec",
+    "data": [
+      {
+        "text": "Sollte ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Mundschutz tragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c50ba113-1cfd-42ed-9c70-41fa8fd06578",
+    "data": [
+      {
+        "text": "Ist das Tragen ",
+        "userDefined": false
+      },
+      {
+        "text": "eines",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mund",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "Nasen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "Schutzes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in der Allgemeinbevölkerung zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Schutz",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vor akuten respiratorischen ",
+        "userDefined": false
+      },
+      {
+        "text": "Infektionen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sinnvoll?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

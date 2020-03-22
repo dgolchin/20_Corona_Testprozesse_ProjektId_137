@@ -1,0 +1,42 @@
+{
+  "id": "b90f5043-0497-41f4-8657-fee8f1d7fda7",
+  "parentId": "4f3b7070-5664-4592-9523-33b1e152bef4",
+  "rootParentId": "4f3b7070-5664-4592-9523-33b1e152bef4",
+  "name": "KeinSchuettelfrost",
+  "auto": true,
+  "contexts": [
+    "Schuettelfrost-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schuettelfrost.Schuettelfrost-no",
+      "affectedContexts": [
+        {
+          "name": "Uebelkeit-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay, verspüren Sie denn ein Übelkeitsgefühl?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

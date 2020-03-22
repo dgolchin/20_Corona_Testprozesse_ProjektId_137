@@ -1,0 +1,105 @@
+[
+  {
+    "id": "d6a7c312-c04f-4bc3-b839-652250f5af2c",
+    "data": [
+      {
+        "text": "Muss ich mich testen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86da6fbe-736f-4044-839e-2a418b189236",
+    "data": [
+      {
+        "text": "Sollte ich mich testen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "605af15e-21ac-42ec-bdc0-e4e2e54fd3fc",
+    "data": [
+      {
+        "text": "Muss ich getestet werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "489488a2-49a4-4f79-8301-fbe370c9b06c",
+    "data": [
+      {
+        "text": "Wann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " muss man getestet werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30bd7447-3584-483d-a921-0d90417b9f5c",
+    "data": [
+      {
+        "text": "Muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "jetzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untersucht werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54f0547d-fe32-4b90-ba7d-7f521211b4b2",
+    "data": [
+      {
+        "text": "Wann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " muss ich untersucht werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce2b4660-ddb7-4c60-b2a7-1b2d06ed8c31",
+    "data": [
+      {
+        "text": "Wann sollte ein Arzt eine Laboruntersuchung auf SARS-CoV-2 veranlassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

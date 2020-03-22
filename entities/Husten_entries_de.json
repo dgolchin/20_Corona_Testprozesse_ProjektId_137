@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Trockener Husten",
+    "synonyms": [
+      "Trockener Husten",
+      "trocken"
+    ]
+  },
+  {
+    "value": "Produktiver Husten",
+    "synonyms": [
+      "Produktiver Husten",
+      "Feuchter Husten",
+      "feucht",
+      "produktiv"
+    ]
+  }
+]

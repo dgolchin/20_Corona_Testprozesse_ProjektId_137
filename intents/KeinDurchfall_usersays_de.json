@@ -1,0 +1,119 @@
+[
+  {
+    "id": "5f25220a-a950-4b3c-9d2d-c7652e8d660b",
+    "data": [
+      {
+        "text": "Kein ",
+        "userDefined": false
+      },
+      {
+        "text": "Durchfall",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b099572b-7c07-4427-a483-1cb924de2bce",
+    "data": [
+      {
+        "text": "Nein kein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Durchfall",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8ef6fa3-3e0e-4a1f-b37a-22fa19b30256",
+    "data": [
+      {
+        "text": "Nein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ich habe",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kein ",
+        "userDefined": false
+      },
+      {
+        "text": "Durchfall",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae1e0575-a1b7-41f0-b684-544a18c62f12",
+    "data": [
+      {
+        "text": "Ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " denke nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "016b6c29-3387-407a-b492-5054a1cbb1ae",
+    "data": [
+      {
+        "text": "Nein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33e7a694-42ce-46c9-97eb-c0020c4b1da8",
+    "data": [
+      {
+        "text": "Nein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " danke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

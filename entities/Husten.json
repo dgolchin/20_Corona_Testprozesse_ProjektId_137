@@ -1,0 +1,9 @@
+{
+  "id": "a5318199-40e9-4e11-b7ea-e2376a4dad04",
+  "name": "Husten",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

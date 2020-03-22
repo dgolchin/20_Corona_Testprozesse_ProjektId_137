@@ -1,0 +1,79 @@
+{
+  "id": "f50a9ea1-4c5c-44b1-b7a4-44a0259010ff",
+  "parentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "EinschaetzungSymptome",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [
+        {
+          "name": "EinschaetzungSymptome-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6ac52621-51cf-4c86-8064-5c1c76b79d65",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "coronasynonyme",
+          "value": "$coronasynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "e056b27c-d0b6-42c0-8256-456821b35d2e",
+          "required": false,
+          "dataType": "@Person",
+          "name": "Person",
+          "value": "$Person",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "b30c35ae-3297-424c-8714-49ff96a97e6c",
+          "required": false,
+          "dataType": "@Beschwerden",
+          "name": "Beschwerden",
+          "value": "$Beschwerden",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay, lassen Sie uns einen Symptom Check machen. Wir gehen jetzt die Symptome zusammen durch. Ich stelle Ihnen 13 kurze Fragen zu den bisher bekannten Symptomen. Bitte denken Sie stets daran die kommenden Fragen möglichst gewissenhaft und ehrlich zu beantworten.  Haben Sie schon Fieber gemessen?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

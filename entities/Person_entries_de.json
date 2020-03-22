@@ -1,0 +1,116 @@
+[
+  {
+    "value": "Ich",
+    "synonyms": [
+      "Ich"
+    ]
+  },
+  {
+    "value": "Du",
+    "synonyms": [
+      "Du"
+    ]
+  },
+  {
+    "value": "Er",
+    "synonyms": [
+      "Er"
+    ]
+  },
+  {
+    "value": "Sie",
+    "synonyms": [
+      "Sie"
+    ]
+  },
+  {
+    "value": "Mein Nachbar",
+    "synonyms": [
+      "Mein Nachbar"
+    ]
+  },
+  {
+    "value": "Der Nachbar",
+    "synonyms": [
+      "Der Nachbar"
+    ]
+  },
+  {
+    "value": "Mein Kind",
+    "synonyms": [
+      "Mein Kind"
+    ]
+  },
+  {
+    "value": "Das Kind",
+    "synonyms": [
+      "Das Kind"
+    ]
+  },
+  {
+    "value": "Meine Frau",
+    "synonyms": [
+      "Meine Frau"
+    ]
+  },
+  {
+    "value": "Mein Mann",
+    "synonyms": [
+      "Mein Mann"
+    ]
+  },
+  {
+    "value": "Mein Sohn",
+    "synonyms": [
+      "Mein Sohn"
+    ]
+  },
+  {
+    "value": "Meine Tochter",
+    "synonyms": [
+      "Meine Tochter"
+    ]
+  },
+  {
+    "value": "Die Tochter meines Freundes",
+    "synonyms": [
+      "Die Tochter meines Freundes"
+    ]
+  },
+  {
+    "value": "Der Sohn meines Freundes",
+    "synonyms": [
+      "Der Sohn meines Freundes"
+    ]
+  },
+  {
+    "value": "Der Neffe meines Nachbarn",
+    "synonyms": [
+      "Der Neffe meines Nachbarn"
+    ]
+  },
+  {
+    "value": "Mein Opa",
+    "synonyms": [
+      "Mein Opa"
+    ]
+  },
+  {
+    "value": "Meine Oma",
+    "synonyms": [
+      "Meine Oma"
+    ]
+  },
+  {
+    "value": "Meine Tante",
+    "synonyms": [
+      "Meine Tante"
+    ]
+  },
+  {
+    "value": "Der Heilpraktiker meines Paketboten",
+    "synonyms": [
+      "Der Heilpraktiker meines Paketboten"
+    ]
+  }
+]

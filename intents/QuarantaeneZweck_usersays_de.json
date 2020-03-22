@@ -1,0 +1,104 @@
+[
+  {
+    "id": "5fc11385-4e2a-4378-804a-32b2a68654b4",
+    "data": [
+      {
+        "text": "Warum soll ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in Quarantäne gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5acd9f3a-4892-47cc-8757-c17650a3c701",
+    "data": [
+      {
+        "text": "Warum soll ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Quarantäne machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ff5e2e0-63bc-4a11-a617-d18423980c69",
+    "data": [
+      {
+        "text": "Was bringt ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Quarantäne?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "509d7b31-7f62-4b1d-920d-efa44f11d571",
+    "data": [
+      {
+        "text": "Welchen ",
+        "userDefined": false
+      },
+      {
+        "text": "Zweck",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hat ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Quarantäne?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

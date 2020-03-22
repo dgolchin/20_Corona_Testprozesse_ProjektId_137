@@ -1,0 +1,243 @@
+[
+  {
+    "id": "584e6614-3024-4a3f-8bac-619aa314f78a",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f8c9661-b250-4e7f-ae5c-389ef27ea4fc",
+    "data": [
+      {
+        "text": "Hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55f259e9-4ac1-432c-9bca-468c9ec12c21",
+    "data": [
+      {
+        "text": "Moin moin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee436cff-b5a8-48d2-a818-b21d7656968a",
+    "data": [
+      {
+        "text": "Grüß ",
+        "userDefined": false
+      },
+      {
+        "text": "Gott",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee01a569-4c59-4019-88a0-f6b1c3032159",
+    "data": [
+      {
+        "text": "Moin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e930aa49-663b-485a-9fac-a97ead0dad09",
+    "data": [
+      {
+        "text": "Servus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cf546ed-7f3b-4918-b83a-c5e7a05295dc",
+    "data": [
+      {
+        "text": "Guten ",
+        "userDefined": false
+      },
+      {
+        "text": "Abend",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb2cddd2-8604-4397-9447-e0cc5ff7eb71",
+    "data": [
+      {
+        "text": "Guten Tag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00b1a3fc-d196-4dcb-8468-41722135402e",
+    "data": [
+      {
+        "text": "guten morgen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39f65472-67ef-44d5-a54b-24468ab57d6f",
+    "data": [
+      {
+        "text": "Hi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9a43254-285e-4538-a270-dc352c0cb447",
+    "data": [
+      {
+        "text": "Hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3f03140-07db-4399-98d9-6be9feb56440",
+    "data": [
+      {
+        "text": "ja hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccd146cc-7555-467d-b53b-05d8bb6a8f34",
+    "data": [
+      {
+        "text": "ich grüße dich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2448233-7bb6-4062-b3ea-a3df8b54401f",
+    "data": [
+      {
+        "text": "hallöchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3191cec-af9a-4e2b-9ef5-c3374bc5202f",
+    "data": [
+      {
+        "text": "hallo Schatzi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bea786a1-6061-4d03-b8a4-32eaa15d8a72",
+    "data": [
+      {
+        "text": "hallo Schatz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fc351e9-f34a-4d3d-97f6-3911e8632262",
+    "data": [
+      {
+        "text": "hallo hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc7be1d8-1f42-47a3-89d6-ae2321698270",
+    "data": [
+      {
+        "text": "hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ea2496e-b573-4c24-a274-ade80dba5a29",
+    "data": [
+      {
+        "text": "grüß dich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

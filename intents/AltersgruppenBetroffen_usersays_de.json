@@ -1,0 +1,80 @@
+[
+  {
+    "id": "b8192b69-f3a4-4099-9639-478bad93cfbd",
+    "data": [
+      {
+        "text": "Was für ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Altersgruppe ist am meisten betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e2ec273-126e-4246-98a1-0b53b31e5be5",
+    "data": [
+      {
+        "text": "Wie sind die Altersgruppen betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0e783e3-b835-468f-9a1f-a0ec8fd04b2c",
+    "data": [
+      {
+        "text": "Ab welchem Alter ist man besonders gefährdet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "721171f5-95b6-47c9-a43a-eb0224b55273",
+    "data": [
+      {
+        "text": "Wer ",
+        "userDefined": false
+      },
+      {
+        "text": "ist",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " besonders betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1de2f525-4e76-425b-82e9-beaba01e8d4c",
+    "data": [
+      {
+        "text": "Welche Altersgruppen sind besonders betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

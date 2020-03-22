@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1eedd72d-8c80-491f-a74f-70fa49d2a627",
+    "data": [
+      {
+        "text": "Was sollen die Infektionsschutzmaßnahmen bewirken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2bf4332-246d-4788-badd-5c7866358eb4",
+    "data": [
+      {
+        "text": "Sind die Infektionsschutzmaßnahmen überhaupt nützlich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e4a5169-35b0-48fb-81e4-67e2ed695d76",
+    "data": [
+      {
+        "text": "Was sollen die Infektionsschutzmaßnahmen nutzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22ad951a-9a47-4073-be09-30ee497b39cd",
+    "data": [
+      {
+        "text": "Was bringen die Infektionsschutzmaßnahmen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df55c580-af53-41cb-b318-3bcc37699099",
+    "data": [
+      {
+        "text": "Welches Ziel soll mit den vom RKI empfohlenen Infektionsschutzmaßnahmen erreicht werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

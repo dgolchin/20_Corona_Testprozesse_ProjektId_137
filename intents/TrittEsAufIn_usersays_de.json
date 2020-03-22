@@ -1,0 +1,194 @@
+[
+  {
+    "id": "b23c81b4-7929-4a8f-b596-655ae82de21f",
+    "data": [
+      {
+        "text": "Gibt es das ",
+        "userDefined": false
+      },
+      {
+        "text": "Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " bereits in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "betroffenelaender",
+        "meta": "@BetroffeneLaender",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7310bc4a-d6fc-4527-8e19-8dfb2fe2b26e",
+    "data": [
+      {
+        "text": "Ist das ",
+        "userDefined": false
+      },
+      {
+        "text": "Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Italien",
+        "alias": "betroffenelaender",
+        "meta": "@BetroffeneLaender",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16a2b338-a052-40ef-b7c4-e321f8039087",
+    "data": [
+      {
+        "text": "Gibt es das ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Italien",
+        "alias": "betroffenelaender",
+        "meta": "@BetroffeneLaender",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3169deb-f1ed-41b3-a84f-0eae56a6d632",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "italien",
+        "alias": "betroffenelaender",
+        "meta": "@BetroffeneLaender",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e105f888-eadf-4525-8a0d-15924787ec05",
+    "data": [
+      {
+        "text": "Tritt ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "alias": "betroffenelaender",
+        "meta": "@BetroffeneLaender",
+        "userDefined": false
+      },
+      {
+        "text": " auf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ffb846a-c04d-42f2-b9ae-1dacfbacabee",
+    "data": [
+      {
+        "text": "Tritt das ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "alias": "betroffenelaender",
+        "meta": "@BetroffeneLaender",
+        "userDefined": false
+      },
+      {
+        "text": " auf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

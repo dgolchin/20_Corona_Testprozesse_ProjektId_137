@@ -1,0 +1,56 @@
+[
+  {
+    "id": "d390f37d-1136-4455-8f07-6cce33482e39",
+    "data": [
+      {
+        "text": "Muss ich in ",
+        "userDefined": false
+      },
+      {
+        "text": "die Schule",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3fa9871d-c59f-4377-a82c-e707fff0f346",
+    "data": [
+      {
+        "text": "Muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "zur Schule",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a5880ed-0b7e-4582-abde-0377967cfe93",
+    "data": [
+      {
+        "text": "Was muss bei Veranstaltungen und Schulen beachtet werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

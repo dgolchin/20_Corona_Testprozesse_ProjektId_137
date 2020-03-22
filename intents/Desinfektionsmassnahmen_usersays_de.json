@@ -1,0 +1,102 @@
+[
+  {
+    "id": "edda57c1-bc3e-41d0-82c0-d8377b2290aa",
+    "data": [
+      {
+        "text": "Ist Desinfektionsmittel gegen ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " sinnvoll?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6cd35d6-e2cb-4873-b348-5469317277b7",
+    "data": [
+      {
+        "text": "Hilft es Desinfektionsmittel gegen ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " einzusetzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ab6d304-2e42-4a1e-a78a-af292d1e4977",
+    "data": [
+      {
+        "text": "Welches Desinfektionsmittel hilft gegen ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44a4a66d-a3ad-40a5-88ba-d52e7290928e",
+    "data": [
+      {
+        "text": "Hilf Desinfektionsmittel gegen ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc0784ae-0ebf-434e-b324-c13a26afe300",
+    "data": [
+      {
+        "text": "Welche Mittel sind geeignet bei Desinfektionsmaßnahmen im Zusammenhang mit dem neuartigen Coronavirus (SARS-CoV-2)?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

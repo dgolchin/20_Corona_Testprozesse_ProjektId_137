@@ -1,0 +1,104 @@
+[
+  {
+    "id": "320ac2ba-5cad-4755-998b-b8f720288036",
+    "data": [
+      {
+        "text": "Was ",
+        "userDefined": false
+      },
+      {
+        "text": "ist",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " über ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " und ",
+        "userDefined": false
+      },
+      {
+        "text": "Kinder",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bekannt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0297bb8a-b81d-4d8f-9aec-05fcb0d12c65",
+    "data": [
+      {
+        "text": "Was ",
+        "userDefined": false
+      },
+      {
+        "text": "ist",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " über ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " und Schwangerschaft bekannt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b59a8469-42c7-4f9e-a638-60ae0f852bf1",
+    "data": [
+      {
+        "text": "Was ",
+        "userDefined": false
+      },
+      {
+        "text": "ist",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " über ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " bei Kindern und Schwangeren bekannt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "acdd0716-8019-4472-aeaf-e782b7728b34",
+  "name": "AltersgruppenBetroffen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Das Risiko einer schweren Erkrankung steigt ab 50 bis 60 Jahren stetig mit dem Alter an.  Auch verschiedene Grunderkrankungen wie z.B. Herzkreislauferkrankungen, Diabetes, Erkrankungen des Atmungssystems, der Leber und der Niere sowie Krebserkrankungen scheinen unabhängig vom Alter das Risiko für einen schweren Krankheitsverlauf zu erhöhen. Für Personen mit unterdrücktem Immunsystem besteht ebenfalls ein höheres Risiko. Möchten Sie noch etwas wissen?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

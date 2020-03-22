@@ -1,0 +1,674 @@
+[
+  {
+    "id": "5585c56b-7cbd-46fc-a457-dabc52c6db3d",
+    "data": [
+      {
+        "text": "Ja eigentlich schon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e21c02ac-4083-4f78-ab20-17ad210ba3a6",
+    "data": [
+      {
+        "text": "Ja das glaube ich schon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a171e88-8e40-4d7f-9e16-5a6ca1dff33e",
+    "data": [
+      {
+        "text": "Ich denke schon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "984f15e8-5bab-4e73-b825-f905c288e866",
+    "data": [
+      {
+        "text": "Yo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbfd7c0a-5fe9-419f-9b63-e40ef283cc5a",
+    "data": [
+      {
+        "text": "Jo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad135426-acf4-4fb2-b69e-6efb63bb49ae",
+    "data": [
+      {
+        "text": "Joa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " schon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0e30b4b-b1d8-49c9-893e-35977ba50f5d",
+    "data": [
+      {
+        "text": "Ja habe ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " gemessen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37ac050c-fe3c-4ce2-98d3-5c10bd41d777",
+    "data": [
+      {
+        "text": "Ja würde ich schon sagen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "727a6250-7eb4-4576-bd74-dc2cf7de6788",
+    "data": [
+      {
+        "text": "Jepp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "430e3b87-647a-42a7-a4cb-0880cd2cf308",
+    "data": [
+      {
+        "text": "Jep",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c545236a-9886-48fd-aa6f-3814b3481ab8",
+    "data": [
+      {
+        "text": "Joa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53d3789d-2b0f-4705-991c-657b75c6ed99",
+    "data": [
+      {
+        "text": "Ja, ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisschen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c76e7fdf-b149-4be3-9705-e07aaf604eff",
+    "data": [
+      {
+        "text": "nachts",
+        "alias": "time-period",
+        "meta": "@sys.time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f36c8485-8ec2-4a80-83c3-120d858335b3",
+    "data": [
+      {
+        "text": "Immer wieder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52f0eae1-cec2-4b53-a61c-c6f0feb3b0f7",
+    "data": [
+      {
+        "text": "Ab und zu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1540495-d066-4f0a-82b0-e55e5e9838c3",
+    "data": [
+      {
+        "text": "Manchmal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a12fce21-338f-4832-8681-ad5944c4b500",
+    "data": [
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " wenig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e3d0f2f-34dc-4f03-aa11-e4f17538a853",
+    "data": [
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisschen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b39e4b3a-2b6c-4ca1-8444-4de051f0047f",
+    "data": [
+      {
+        "text": "viel",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba824f8a-05ae-4ad7-84f1-8a3dfef58f05",
+    "data": [
+      {
+        "text": "Ja habe ich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9f0eb13-1594-4ded-b0a0-1b3992e36929",
+    "data": [
+      {
+        "text": "39",
+        "alias": "GradFieber",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " grad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0205841b-af52-496c-8137-1fccd4b77db2",
+    "data": [
+      {
+        "text": "Si",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "9b97b0b4-b085-4cd3-80b8-7310cc62ee3f",
+    "data": [
+      {
+        "text": "Yes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "599ac775-5653-40d9-8ab6-3a59b0dbbb2a",
+    "data": [
+      {
+        "text": "Joa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " habe ich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2edd61c4-d73f-473f-b2ff-f3e1d34cb33b",
+    "data": [
+      {
+        "text": "Ja ",
+        "userDefined": false
+      },
+      {
+        "text": "mein Mann",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " hat ",
+        "userDefined": false
+      },
+      {
+        "text": "Fieber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "600b3d75-e753-471b-ae5b-c9289d0806f2",
+    "data": [
+      {
+        "text": "Ja ",
+        "userDefined": false
+      },
+      {
+        "text": "er",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " hat ",
+        "userDefined": false
+      },
+      {
+        "text": "Fieber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a24a47b3-cf03-48ad-bad6-fdc1b98c6848",
+    "data": [
+      {
+        "text": "Ja ",
+        "userDefined": false
+      },
+      {
+        "text": "Sie",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " hat ",
+        "userDefined": false
+      },
+      {
+        "text": "Fieber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gemessen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb001c11-39bd-4628-b0c9-bb920ea1085d",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "37",
+        "alias": "GradFieber",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " Grad Fieber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed51775f-8224-45c5-a1df-8de6d47434c6",
+    "data": [
+      {
+        "text": "37",
+        "alias": "GradFieber",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1069c86-679c-4035-9dd7-fbdc9db0ff15",
+    "data": [
+      {
+        "text": "Ja",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " habe ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " gemessen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a98627d-3fac-41e5-a9d2-a22b9973862d",
+    "data": [
+      {
+        "text": "Ja ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": false
+      },
+      {
+        "text": " habe ",
+        "userDefined": false
+      },
+      {
+        "text": "Fieber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51669c86-3983-49f9-8581-6f23ddcbded4",
+    "data": [
+      {
+        "text": "Ja, ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "alias": "Person",
+        "meta": "@Person",
+        "userDefined": true
+      },
+      {
+        "text": " habe ",
+        "userDefined": false
+      },
+      {
+        "text": "Fieber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gemessen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4c488a6-d476-461d-98b6-33c17bfede3e",
+    "data": [
+      {
+        "text": "mach das",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c84a260-99b2-41ba-bc49-87048517eb57",
+    "data": [
+      {
+        "text": "ja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "f5e99781-ec80-4b25-9a34-07581ed6090a",
+    "data": [
+      {
+        "text": "natürlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ffc86a44-f4ee-42f5-aaaf-779744b43916",
+    "data": [
+      {
+        "text": "bestätigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12c51425-1e87-406b-95f5-a4334c426b48",
+    "data": [
+      {
+        "text": "klingt gut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c57376c-0392-4577-bd21-ec569024618e",
+    "data": [
+      {
+        "text": "ist mir egal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1300c5cf-4af1-44a3-8a5e-9100b6384a98",
+    "data": [
+      {
+        "text": "genau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "c18555f6-1023-416d-bd2f-ee1d40395e1e",
+    "data": [
+      {
+        "text": "klar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a7d81b1c-820c-4f04-8410-3f34932f706e",
+    "data": [
+      {
+        "text": "das ist richtig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4a7ef2a4-88aa-4ea3-937f-9ed7d92afacd",
+    "data": [
+      {
+        "text": "einverstanden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

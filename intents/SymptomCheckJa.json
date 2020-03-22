@@ -1,0 +1,42 @@
+{
+  "id": "abca896c-0750-40ba-8102-e87c60e95f03",
+  "parentId": "129d13c8-b564-4f0b-bdcc-946dfa4184f7",
+  "rootParentId": "129d13c8-b564-4f0b-bdcc-946dfa4184f7",
+  "name": "SymptomCheckJa",
+  "auto": true,
+  "contexts": [
+    "BotInfoStart-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BotInfoStart.BotInfoStart-yes",
+      "affectedContexts": [
+        {
+          "name": "EinschaetzungSymptome-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay, lassen Sie uns einen Symptom Check machen. Wir gehen jetzt die Symptome zusammen durch. Ich stelle Ihnen 13 kurze Fragen zu den bisher bekannten Symptomen. Bitte denken Sie stets daran die kommenden Fragen möglichst gewissenhaft und ehrlich zu beantworten.  Haben Sie schon Fieber gemessen?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

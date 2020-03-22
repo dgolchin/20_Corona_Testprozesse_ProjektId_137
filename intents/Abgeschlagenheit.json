@@ -1,0 +1,73 @@
+{
+  "id": "36290450-58e8-4cd5-8550-8f0d5ed60592",
+  "parentId": "058790d6-a984-474a-9b4d-d49b8dc22513",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "Abgeschlagenheit",
+  "auto": true,
+  "contexts": [
+    "Durchfall-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes.HustenVorhanden-yes.NaseZu-yes.Durchfall-yes",
+      "affectedContexts": [
+        {
+          "name": "Abgeschlagenheit-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1fc24c83-e36d-44d3-b9e3-ec37174c181f",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7a4f85d4-b995-499d-ba74-779d83c40355",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "AbgeschlagenSk",
+          "value": "$AbgeschlagenSk",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Auf einer Skala von 1 bis 10, wobei 1 leicht träge und 10 sehr träge bedeutet, wie würden Sie ihr Trägheitsgefühl einschätzen?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay, ist Ihre Nase verstopft?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

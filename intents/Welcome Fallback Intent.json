@@ -1,0 +1,35 @@
+{
+  "id": "9e8320dc-f012-4ae8-b676-be1ce08ff3df",
+  "name": "Welcome Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": [
+            "Ich verstehe Ihre Frage leider nicht. Formulieren Sie das bitte nochmal anders. Ich kann Ihnen Informationen zu  dem Coronavirus geben oder eine Ersteinschätzung zu Ihren Symptomen geben. Wie kann ich Ihnen helfen?",
+            "Entschuldigen Sie bitte, ich habe Ihre Frage nicht verstanden. Können Sie das nochmal anders formulieren? Ich kann Ihnen Informationen zu  dem Coronavirus geben oder eine Ersteinschätzung zu Ihren Symptomen geben. Wie kann ich Ihnen helfen?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

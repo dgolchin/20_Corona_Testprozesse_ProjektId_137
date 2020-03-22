@@ -1,0 +1,141 @@
+[
+  {
+    "id": "9c6a1236-1fa2-45cc-8ed6-ec9e05d6d2a8",
+    "data": [
+      {
+        "text": "Ist die Lage in ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gefährlich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "176e9731-42a2-486f-bc1e-8edefe0bd382",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " stark betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2f4ea2d-ec9a-4a72-8192-e53a213f7d00",
+    "data": [
+      {
+        "text": "Wie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " stark betroffen ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d9de872-8a60-4d8f-8f5c-663e1cd5a5cc",
+    "data": [
+      {
+        "text": "Wie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vom ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69db1ae5-6d0f-49c1-ae6d-4a6a35f3a7e0",
+    "data": [
+      {
+        "text": "Wie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ist",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " die Lage in ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

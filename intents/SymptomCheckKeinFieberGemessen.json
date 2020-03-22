@@ -1,0 +1,61 @@
+{
+  "id": "571c208a-e3af-4b3e-a0fa-8ec772dbb9d9",
+  "parentId": "f50a9ea1-4c5c-44b1-b7a4-44a0259010ff",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "SymptomCheckKeinFieberGemessen",
+  "auto": true,
+  "contexts": [
+    "EinschaetzungSymptome-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-no",
+      "affectedContexts": [
+        {
+          "name": "SymptomCheckFieberGemessen-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0c764747-7118-4ca0-8526-5c1a4eb62e28",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "FieberSkala",
+          "value": "$FieberSkala",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Auf einer Skala von 0 bis 10 (wobei 0 kein Fieber und 10 sehr starkes Fieber bedeutet), wie würden Sie Ihr Befinden einschätzen?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay. Haben Sie Husten?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

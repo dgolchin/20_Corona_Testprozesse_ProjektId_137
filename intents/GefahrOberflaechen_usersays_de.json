@@ -1,0 +1,180 @@
+[
+  {
+    "id": "2e7ef265-10c4-4bb9-bc69-c161af5203df",
+    "data": [
+      {
+        "text": "Geht von Lebensmitteln ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Infektionsgefahr aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7709902e-04a0-48ed-99a9-1b884657e142",
+    "data": [
+      {
+        "text": "Kann ich mich durch ",
+        "userDefined": false
+      },
+      {
+        "text": "Lebensmittel",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " anstecken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc896cc7-0de7-4cdc-bd1f-35a7b045479b",
+    "data": [
+      {
+        "text": "Kann ich durch anfassen von Gegenständen ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " bekommen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f13ed129-5d81-4a2c-89c3-fcd9fab7b3e0",
+    "data": [
+      {
+        "text": "Kann ich mich durch anfassen von Gegenständen anstecken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "238601aa-bf9a-4035-9f69-6b433a7f1331",
+    "data": [
+      {
+        "text": "Geht von Gegenständen ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Infektionsgefahr aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1674384-d16b-459e-a404-bbf279953a59",
+    "data": [
+      {
+        "text": "Kann man sich durch Gegenstände mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " anstecken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6429a50-684b-4d86-bf8c-37f65c5d4622",
+    "data": [
+      {
+        "text": "Besteht die Gefahr, ",
+        "userDefined": false
+      },
+      {
+        "text": "sich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " über ",
+        "userDefined": false
+      },
+      {
+        "text": "Lebensmittel",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", Oberflächen oder Gegenstände mit dem neuartigen ",
+        "userDefined": false
+      },
+      {
+        "text": "Coronavirus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " (",
+        "userDefined": false
+      },
+      {
+        "text": "SARS-CoV-2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ") anzustecken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

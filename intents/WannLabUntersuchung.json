@@ -1,0 +1,31 @@
+{
+  "id": "8bf8a05f-fadd-40d4-8b03-2e6fd3a7a43a",
+  "name": "WannLabUntersuchung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Eine Laboruntersuchung auf SARS-CoV-2 ist dann angezeigt, wenn es sich bei den Betroffenen um begründete COVID-19-Verdachtsfälle handelt, d.h. sie Krankheitszeichen haben und innerhalb der letzten 14 Tage Kontakt zu einem bestätigten COVID-19-Fall hatten und/oder sich innerhalb der letzten 14 Tage in einem Risikogebiet/einem besonders betroffenen Gebiet in Deutschland aufgehalten haben. Tests bei asymptomatischen Personen werden nicht empfohlen. Stellen Sie mir gerne weitere Fragen zu $CoronaSynonyme"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

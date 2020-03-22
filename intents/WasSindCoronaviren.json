@@ -1,0 +1,44 @@
+{
+  "id": "579c9e29-6bb1-42a0-8354-87394096273a",
+  "name": "WasSindCoronaviren",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "11a0aa90-810a-49ac-9a11-660be550bb96",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "coronasynonyme",
+          "value": "$coronasynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Coronaviren wurden erstmals Mitte der 1960er Jahre identifiziert. Sie können sowohl Menschen als auch verschiedene Tiere infizieren, darunter Vögel und Säugetiere. Coronaviren verursachen beim Menschen verschiedene Krankheiten, von gewöhnlichen Erkältungen bis hin zu gefährlichen oder sogar potenziell tödlich verlaufenden Krankheiten wie dem Middle East Respiratory Syndrome (MERS) oder dem Severe Acute Respiratory Syndrome (SARS). In der Vergangenheit waren schwere, durch Coronaviren verursachte Krankheiten wie SARS oder MERS zwar weniger leicht übertragbar als Influenza, aber sie haben dennoch zu großen Ausbrüchen geführt, zum Teil in Krankenhäusern. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

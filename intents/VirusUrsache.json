@@ -1,0 +1,44 @@
+{
+  "id": "dc5a9e63-eac6-4591-b510-87c0e6962a5f",
+  "name": "VirusUrsache",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "29d9191b-94f6-4f18-8759-c7ae03cc53ad",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "CoronaSynonyme",
+          "value": "$CoronaSynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Man nimmt an, dass SARS-CoV-2 von Fledermäusen stammt, Zwischenwirte wurden jedoch noch nicht identifiziert. Derzeit wird davon ausgegangen, dass sich die ersten Patienten Anfang Dezember auf einem Markt in Wuhan in der Provinz Hubei, China, angesteckt haben."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

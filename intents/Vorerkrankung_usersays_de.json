@@ -1,0 +1,288 @@
+[
+  {
+    "id": "d6bb9747-6d64-48c1-8ecd-a00fc897e442",
+    "data": [
+      {
+        "text": "Diabetis",
+        "alias": "Vorerkrankungen",
+        "meta": "@Vorerkrankungen",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d17f135-25c0-41a0-8078-6db545dd085f",
+    "data": [
+      {
+        "text": "Ja davon habe ich ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "AnzahlVorerkrankungen",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " Vorerkrankungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "146eac4d-ec26-4f65-801d-716874465381",
+    "data": [
+      {
+        "text": "Ja ",
+        "userDefined": false
+      },
+      {
+        "text": "Diabetis und eine Herzrythmusstörung",
+        "alias": "NameDerKrankheit",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53aa0a48-d7fc-46f2-8ef1-79cab7e3048c",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "Diabetis und Asthma",
+        "alias": "NameDerKrankheit",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38715442-4b86-4fd4-a8d5-7b6f6485c25a",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "Diabetis",
+        "alias": "NameDerKrankheit",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "857cc297-ac37-4f59-b2ef-cf8ae2c86cc7",
+    "data": [
+      {
+        "text": "Ja ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "Diabetis",
+        "alias": "NameDerKrankheit",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3bf44c7-894e-451a-b0c6-6f7b9bd11283",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "AnzahlVorerkrankungen",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " von den Vorerkrankungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "765f2908-f6d0-45a9-8af4-b20a34be260f",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "AnzahlVorerkrankungen",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " Vorerkrankungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24e0a6ae-8c4c-40ce-a5f0-dec84eac4dda",
+    "data": [
+      {
+        "text": "2",
+        "alias": "AnzahlVorerkrankungen",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c371a1ce-8cf6-4694-92d5-25086beb7b13",
+    "data": [
+      {
+        "text": "mach das",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "657803cb-66bb-45c5-9b09-a1f9d4c36f49",
+    "data": [
+      {
+        "text": "ja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "e2392daf-6218-490f-9029-d0844667fa19",
+    "data": [
+      {
+        "text": "natürlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4da90983-e371-468b-ba96-fa2f8ac8ad36",
+    "data": [
+      {
+        "text": "bestätigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d66017d8-51fb-4787-bd37-ebbf17e5dffd",
+    "data": [
+      {
+        "text": "klingt gut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecfde8f7-2419-4825-af5a-79e7ad1c8858",
+    "data": [
+      {
+        "text": "ist mir egal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "adb7017a-2ca5-457a-b58a-637d5b19d790",
+    "data": [
+      {
+        "text": "genau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "84ca2c12-32f0-4d9d-a8cc-3c4f15bd2030",
+    "data": [
+      {
+        "text": "klar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c2965b30-b0c2-4a85-98a8-db0a0e1ae28a",
+    "data": [
+      {
+        "text": "das ist richtig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "526161ae-c6d6-4b31-ac53-a9564cb407ac",
+    "data": [
+      {
+        "text": "einverstanden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

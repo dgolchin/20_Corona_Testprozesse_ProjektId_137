@@ -1,0 +1,56 @@
+[
+  {
+    "id": "f5d4c75d-6a71-4f43-84d9-5038cb2a3a57",
+    "data": [
+      {
+        "text": "Was bedeutet das Wort Epidemie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3055715-0eb2-46e4-bd14-834911845ae5",
+    "data": [
+      {
+        "text": "Was bezeichnet ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Epidemie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f03a44c7-9923-4d9e-ab57-cf433373f060",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Epidemie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "id": "57a0f8ac-929c-4971-9ec9-25d1ae84e4ab",
+    "data": [
+      {
+        "text": "Was kannst du mir zum Thema ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sagen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09f3aee4-5370-4d0f-8436-0d85ad48b7aa",
+    "data": [
+      {
+        "text": "Was hilfst du mir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "773a5e7c-9072-406c-927a-fd3f2be54da9",
+    "data": [
+      {
+        "text": "Hilf mir bitte.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b246fa94-5099-4238-9298-a3d8d0a5bea3",
+    "data": [
+      {
+        "text": "Wie bist ",
+        "userDefined": false
+      },
+      {
+        "text": "du",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nützlich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97bb129b-9267-4a3c-8f5c-fa0bfd1e338f",
+    "data": [
+      {
+        "text": "Wie kannst ",
+        "userDefined": false
+      },
+      {
+        "text": "du",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mir helfen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "242cf586-8121-4a16-98d0-6cb488e8e631",
+    "data": [
+      {
+        "text": "Was kannst ",
+        "userDefined": false
+      },
+      {
+        "text": "du",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d99600c-d095-4ad1-9db7-4a4c60b78098",
+    "data": [
+      {
+        "text": "Was machst ",
+        "userDefined": false
+      },
+      {
+        "text": "du",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

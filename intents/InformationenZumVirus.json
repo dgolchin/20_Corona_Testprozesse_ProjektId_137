@@ -1,0 +1,52 @@
+{
+  "id": "e54d009a-a05a-4c98-b2e1-5e138626ac22",
+  "parentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "InformationenZumVirus",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "da643471-5016-4466-9d00-a1c97c5f7883",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "CoronaSynonyme",
+          "value": "$CoronaSynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": [
+            "Okay, gerne versorge ich Sie mit allen Informationen rund um das Corona Virus. Mein Wissen basiert auf den Veröffentlichungen des Robert-Koch-Instituts und der Weltgesunheitsorganisation.  Was möchten Sie wissen?",
+            "Gerne versorge ich Sie mit allen Informationen rund um das Corona Virus. Mein Wissen basiert auf den Veröffentlichungen des Robert-Koch-Instituts und der Weltgesunheitsorganisation.  Was würden Sie gerne erfahren?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

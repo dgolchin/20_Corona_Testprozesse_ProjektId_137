@@ -1,0 +1,44 @@
+{
+  "id": "91ddecf7-620c-4582-bf03-698a6f9f1fed",
+  "name": "Behandlungsmoeglichkeiten",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eda44f90-6528-4a37-ab7b-a4257e470f64",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "CoronaSynonyme",
+          "value": "$CoronaSynonyme",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Nicht alle Erkrankungen nach Infektion mit dem neuartigen Coronavirus verlaufen schwer, auch bei den meisten in China berichteten Fällen war der Krankheitsverlauf mild. Im Zentrum der Behandlung der Infektion stehen die optimalen unterstützenden Maßnahmen entsprechend der Schwere des Krankheitsbildes. Eine spezifische, d.h. gegen das neuartige Coronavirus selbst gerichtete Therapie steht derzeit noch nicht zur Verfügung. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

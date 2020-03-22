@@ -1,0 +1,231 @@
+[
+  {
+    "id": "a0b15602-8e6b-44a5-a738-cbd7285b7c5e",
+    "data": [
+      {
+        "text": "Wo gibt es das neue ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9bd1b20-f737-4a8b-a10f-f4470929d85a",
+    "data": [
+      {
+        "text": "Wo ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " bis ",
+        "userDefined": false
+      },
+      {
+        "text": "jetzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "526ea22d-5008-4a6d-af3f-97c038e35ffd",
+    "data": [
+      {
+        "text": "Wo ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " bisher?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "822e9b54-09ea-439d-a7ea-1114bb04e72a",
+    "data": [
+      {
+        "text": "Wo ist das ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " bisher?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "361bdeee-d4c8-4826-b8cd-881a38e29c67",
+    "data": [
+      {
+        "text": "Wo gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4eb1f400-5ece-401f-add4-ea1608d02b55",
+    "data": [
+      {
+        "text": "Wo tritt ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " auf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4020800-fc3a-4730-94f4-2457e43e53d0",
+    "data": [
+      {
+        "text": "Wo gibt es das ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4f6bbf3-af28-4f9d-8169-68eaee0e2f76",
+    "data": [
+      {
+        "text": "Wo ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " aufgetreten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d74acd24-dddd-4a01-b669-8dd0f944835c",
+    "data": [
+      {
+        "text": "Wo tritt das ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " bisher auf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd03b9c7-0f58-4147-b4a1-54ff712691f6",
+    "data": [
+      {
+        "text": "Welche Länder sind vom ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus",
+        "alias": "coronasynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": " betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

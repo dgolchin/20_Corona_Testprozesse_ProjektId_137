@@ -1,0 +1,61 @@
+{
+  "id": "95056392-b9dc-41d2-801f-51fa253ca79f",
+  "parentId": "080be8d7-88ee-40c8-807b-0450fd800844",
+  "rootParentId": "4f3b7070-5664-4592-9523-33b1e152bef4",
+  "name": "Raucher",
+  "auto": true,
+  "contexts": [
+    "Altersabfrage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schuettelfrost.Schuettelfrost-yes.Uebelkeit-yes.Uebelkeit-custom.Altersabfrage-yes",
+      "affectedContexts": [
+        {
+          "name": "Raucher-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f66ec77b-a07e-4e65-943e-faef346a8e69",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "smoker",
+          "value": "$smoker",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Bitte sagen Sie ja oder nein"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Haben Sie eine der folgenden Vorerkrankungen: Vorerkrankung im Herz-Kreislauf-System (z.B. koronare Herzerkrankung und Bluthochdruck), Vorerkrankung der Lunge (z.B. Asthma, chronische Bronchitits), eine chronische Lebererkrankung, Diabetes, eine Krebserkrankung oder eine Krankheit die ein geschwächtes Immunsystem verursacht?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1eff5739-6375-43f4-9dcb-b87421cf67be",
+  "name": "WasIstPandemie",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Eine Pandemie bezeichnet eine weltweite Epidemie. Eine Influenzapandemie wird durch ein neuartiges Influenzavirus verursacht, das in der Lage ist, schwere Erkrankungen hervorzurufen und sich gut von Mensch zu Mensch zu verbreiten. Da dieser neue Erreger zuvor nicht oder sehr lange nicht in der menschlichen Bevölkerung vorgekommen ist, ist das Immunsystem nicht vorbereitet und daher auch nicht geschützt. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

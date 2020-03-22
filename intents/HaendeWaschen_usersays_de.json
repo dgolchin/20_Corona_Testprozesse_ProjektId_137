@@ -1,0 +1,77 @@
+[
+  {
+    "id": "4f54238f-bf95-420c-a962-454b5c9f82fd",
+    "data": [
+      {
+        "text": "Was muss ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " beim Hände waschen beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1f5923e-7db7-4449-a5c1-3d5df7c5cd7d",
+    "data": [
+      {
+        "text": "Wie wasche ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mir richtig die Hände?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7c2c8b0-67b8-4ddc-8134-959cd76e8d38",
+    "data": [
+      {
+        "text": "Wie geht richtiges Hände waschen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c753de9-c6e0-4e83-90a1-3092187cbee6",
+    "data": [
+      {
+        "text": "Wie wasche ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mir die Hände?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "d789dc18-4dc2-4c67-8292-59f673960c45",
+  "name": "QuarantaeneZweck",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Eine weitere Ausbreitung des neuartigen Coronavirus in Deutschland soll so weit wie möglich verlangsamt werden. Hierfür ist es notwendig, die Kontaktpersonen von labordiagnostisch bestätigten Infektionsfällen zu identifizieren und – je nach individuellem Infektionsrisiko – ihren Gesundheitszustand für die maximale Dauer der Inkubationszeit (14 Tage) zu beobachten, wenn geboten auch in häuslicher Quarantäne. Stellen Sie mir gerne weitere Fragen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

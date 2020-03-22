@@ -1,0 +1,36 @@
+{
+  "id": "7eeb1b33-1aae-47c4-9976-07ff089f8cd0",
+  "parentId": "f50a9ea1-4c5c-44b1-b7a4-44a0259010ff",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "SymptomCheck - fallback",
+  "auto": false,
+  "contexts": [
+    "EinschaetzungSymptome-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Antwort habe ich leider nicht ganz verstanden. Haben Sie bereits Fieber gemessen?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

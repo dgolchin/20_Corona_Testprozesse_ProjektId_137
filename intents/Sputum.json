@@ -1,0 +1,73 @@
+{
+  "id": "edb392f7-295f-4141-a483-fd417772174d",
+  "parentId": "0ffc87f0-b864-4027-a438-742e40669d34",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "Sputum",
+  "auto": true,
+  "contexts": [
+    "HustenVorhanden-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes.HustenVorhanden-yes",
+      "affectedContexts": [
+        {
+          "name": "NaseZu-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ca8e397d-9dfe-40e6-b3ef-374b30f6a8e1",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "name": "time-period",
+          "value": "$time-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e3e98d60-352d-47d2-9ab1-853847d29c17",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "SputumSkala",
+          "value": "$SputumSkala",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Auf einer Skala von 1 (leichtes Sputum) bis 10 (sehr starkes Sputum), wie bewerten Sie Ihre Beschwerden?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay. Haben Sie Durchfall?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

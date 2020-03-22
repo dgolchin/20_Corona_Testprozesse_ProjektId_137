@@ -1,0 +1,36 @@
+{
+  "id": "d1cb4d9d-3c98-4399-a39b-8350abc77bbc",
+  "parentId": "129d13c8-b564-4f0b-bdcc-946dfa4184f7",
+  "rootParentId": "129d13c8-b564-4f0b-bdcc-946dfa4184f7",
+  "name": "KeinSymptomCheckNein",
+  "auto": true,
+  "contexts": [
+    "BotInfoStart-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BotInfoStart.BotInfoStart-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Alles klar, fragen Sie mich gerne zu anderen Informationen über das Coronavirus."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "d26131cc-2765-4ab3-83d0-e83b2965cd55",
+  "name": "HustNiesRegeln",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Beim Husten oder Niesen sollte möglichst kein Speichel oder Nasensekret in die Umgebung versprüht werden. Sich beim Husten oder Niesen die Hand vor den Mund zu halten ist nicht gut, dabei gelangen Krankheitserreger an die Hände und können anschließend über gemeinsam benutzte Gegenstände oder beim Hände schütteln an andere weitergereicht werden. Halten Sie beim Husten oder Niesen mindestens einen Meter Abstand von anderen Personen und drehen Sie sich weg. Niesen oder husten Sie am besten in ein Einwegtaschentuch. Verwenden Sie dies nur einmal und entsorgen es anschließend in einem Mülleimer mit Deckel. Wird ein Stofftaschentuch benutzt, sollte dies anschließend bei 60°C gewaschen werden. Und immer gilt: Nach dem Naseputzen, Niesen oder Husten gründlich die Hände waschen! Ist kein Taschentuch griffbereit, sollten Sie sich beim Husten und Niesen die Armbeuge vor Mund und Nase halten und ebenfalls sich dabei von anderen Personen abwenden."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

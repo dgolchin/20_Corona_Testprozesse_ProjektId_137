@@ -1,0 +1,44 @@
+{
+  "id": "b7174025-0716-44cb-981a-72fbf991653a",
+  "name": "AnsteckungSchutz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f8b8e790-272a-463e-962e-3c7b2b8f245e",
+          "required": false,
+          "dataType": "@CoronaSynonyme",
+          "name": "coronasynonyme1",
+          "value": "$coronasynonyme1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Wie bei Influenza und anderen akuten Atemwegsinfektionen schützen die Hust- und Niesregeln, gute Händehygiene sowie Abstand zu Erkrankten circa 1 bis 2 Meter auch vor einer Übertragung des neuen Coronavirus. Auch aufs Händeschütteln sollte verzichtet werden. Generell sollten Menschen, die Atemwegssymptome haben, zu Hause bleiben. Möchten Sie noch mehr Informationen haben?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

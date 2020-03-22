@@ -1,0 +1,97 @@
+[
+  {
+    "id": "f6d5d261-b137-4190-9f0e-391074e16718",
+    "data": [
+      {
+        "text": "Nein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ich habe",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " keine ",
+        "userDefined": false
+      },
+      {
+        "text": "Halsschmerzen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13ad9776-c50c-4fdd-b912-921188438c38",
+    "data": [
+      {
+        "text": "Nee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c13f099-d902-4d56-974d-f1b338d55350",
+    "data": [
+      {
+        "text": "Nein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " das nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b215004-6aae-458b-9e9b-3fbbcb029438",
+    "data": [
+      {
+        "text": "Nein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " keine ",
+        "userDefined": false
+      },
+      {
+        "text": "Halsschmerzen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90c5cfae-0bfd-4d97-86e6-66307c371921",
+    "data": [
+      {
+        "text": "Nein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

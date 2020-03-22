@@ -1,0 +1,46 @@
+{
+  "id": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "1Start Welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": [
+            "Schönen guten Tag! Willkommen beim Corona-Bot. Ich versuche Bürger in der Corona-Krise zu unterstützen und gleichzeitig Ärzte, Pfleger und den gesamten weiteren Gesundheitssektor zu entlasten. Gerne versorge ich Sie mit Informationen zum Corona-Virus oder gebe Ihnen eine kurze Einschätzung zu Ihren möglichen Krankheitssymptomen. Hätten Sie gerne Informationen oder eine Einschätzung zu Ihren Symptomen?",
+            "Guten Tag! Willkommen beim Corona-Bot. Ich versuche Bürger in der Corona-Krise zu unterstützen und gleichzeitig Ärzte, Pfleger und den gesamten weiteren Gesundheitssektor zu entlasten. Gerne versorge ich Sie mit Informationen zum Corona-Virus oder gebe Ihnen eine kurze Einschätzung zu Ihren möglichen Krankheitssymptomen. Hätten Sie gerne Informationen oder eine Einschätzung zu Ihren Symptomen?",
+            "Hallo! Willkommen beim Corona-Bot. Ich versuche Bürger in der Corona-Krise zu unterstützen und gleichzeitig Ärzte, Pfleger und den gesamten weiteren Gesundheitssektor zu entlasten. Gerne versorge ich Sie mit Informationen zum Corona-Virus oder gebe Ihnen eine kurze Einschätzung zu Ihren möglichen Krankheitssymptomen. Hätten Sie gerne Informationen oder eine Einschätzung zu Ihren Symptomen?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": "e135b246-3920-49cb-a776-d796fcb50c42",
+  "parentId": "ab3d0259-9281-4782-9439-8151da5f897d",
+  "rootParentId": "2ad1fc10-f3c7-48a7-8802-1e270bd18936",
+  "name": "Kieferschmerzen",
+  "auto": true,
+  "contexts": [
+    "Atemprobleme-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.EinschaetzungSymptome-yes.SymptomCheckFieberGemessen-yes.HustenVorhanden-yes.NaseZu-yes.Durchfall-yes.Abgeschlagenheit-yes.Sputum-yes.Atemprobleme-yes",
+      "affectedContexts": [
+        {
+          "name": "Kieferschmerzen-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bceed7d6-cab3-4fbc-9a60-bc753828101c",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "name": "time-period",
+          "value": "$time-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "fa79bda9-88c0-4804-bf6b-4b648b14dd22",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "KieferSkala",
+          "value": "$KieferSkala",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Teilen Sie mir bitte mit wie stark Sie Ihre Kieferschmerzen einschätzen auf einer Skala von 1(leichte Beschwerden) bis 10 (starke Kieferschmerzen)."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Okay , haben Sie Kopfschmerzen?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

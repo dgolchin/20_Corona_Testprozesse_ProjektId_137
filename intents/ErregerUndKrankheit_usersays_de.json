@@ -1,0 +1,91 @@
+[
+  {
+    "id": "29250fdf-d248-4ad8-a0c7-8ad2d50b2a16",
+    "data": [
+      {
+        "text": "Wie gefährlich ist ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9f7ff2f-3657-4772-866f-49b2a5ac24d3",
+    "data": [
+      {
+        "text": "Wie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " funktioniert das ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona Virus?",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "268b8c1d-0d86-4cac-bfc1-6a57e6851ac0",
+    "data": [
+      {
+        "text": "Was ist über den ",
+        "userDefined": false
+      },
+      {
+        "text": "Erreger",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": true
+      },
+      {
+        "text": " und die Krankheit bekannt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2cf1cdad-2ab8-45ed-be52-baab6d8b6e1f",
+    "data": [
+      {
+        "text": "Was ist über ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "CoronaSynonyme",
+        "meta": "@CoronaSynonyme",
+        "userDefined": true
+      },
+      {
+        "text": " bekannt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

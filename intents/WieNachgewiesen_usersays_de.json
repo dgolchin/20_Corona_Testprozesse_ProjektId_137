@@ -1,0 +1,89 @@
+[
+  {
+    "id": "f1fc972e-5709-49b2-94e0-b2f443d010eb",
+    "data": [
+      {
+        "text": "Wie wird man auf ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " getestet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33dac00f-22b1-400c-a5b5-a4e0b46e23ee",
+    "data": [
+      {
+        "text": "Wie weist man ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nach?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dcb79ad6-d906-42b2-ae80-30795ec93946",
+    "data": [
+      {
+        "text": "Wie wird ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nachgewiesen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8ce8216-ca6b-4ff6-bc70-55b3320f6adf",
+    "data": [
+      {
+        "text": "Wie kann man das Coronavirus nachweisen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7904685b-a4b6-4c6a-99b2-6f710f5ce63c",
+    "data": [
+      {
+        "text": "Wie wird eine Infektion mit SARS-CoV-2 labordiagnostisch nachgewiesen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
